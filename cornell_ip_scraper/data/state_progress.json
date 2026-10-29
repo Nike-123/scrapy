@@ -12,7 +12,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Alaska": {
     "status": "failed_or_inaccessible",
@@ -26,7 +26,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "Listings processed; only solo / in-house lawyers found, no identifiable law firm (excluded per rules)",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Arizona": {
     "status": "in_progress",
@@ -42,7 +42,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Arkansas": {
     "status": "in_progress",
@@ -57,7 +57,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "California": {
     "status": "in_progress",
@@ -88,7 +88,7 @@
     ],
     "listing_pages_processed_count": 4,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Colorado": {
     "status": "in_progress",
@@ -107,7 +107,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Connecticut": {
     "status": "in_progress",
@@ -121,7 +121,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Delaware": {
     "status": "in_progress",
@@ -135,7 +135,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Florida": {
     "status": "in_progress",
@@ -170,7 +170,7 @@
     ],
     "listing_pages_processed_count": 6,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Georgia": {
     "status": "in_progress",
@@ -187,7 +187,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Hawaii": {
     "status": "in_progress",
@@ -201,7 +201,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Idaho": {
     "status": "in_progress",
@@ -215,14 +215,15 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Illinois": {
     "status": "in_progress",
-    "records_collected": 4,
-    "firm_bearing_records": 4,
+    "records_collected": 6,
+    "firm_bearing_records": 6,
     "cities_seen": [
-      "Chicago"
+      "Chicago",
+      "Glen Ellyn"
     ],
     "listing_pages_processed": [
       "https://lawyers.law.cornell.edu/lawyers/intellectual-property/illinois",
@@ -230,7 +231,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Indiana": {
     "status": "in_progress",
@@ -245,7 +246,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Iowa": {
     "status": "in_progress",
@@ -259,7 +260,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Kansas": {
     "status": "in_progress",
@@ -273,7 +274,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Kentucky": {
     "status": "in_progress",
@@ -287,7 +288,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Louisiana": {
     "status": "in_progress",
@@ -303,7 +304,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Maine": {
     "status": "in_progress",
@@ -317,22 +318,25 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Maryland": {
     "status": "in_progress",
-    "records_collected": 2,
-    "firm_bearing_records": 2,
+    "records_collected": 4,
+    "firm_bearing_records": 4,
     "cities_seen": [
       "Baltimore",
-      "Potomac"
+      "Potomac",
+      "Rockville",
+      "Westminster"
     ],
     "listing_pages_processed": [
-      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland"
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland?page=2"
     ],
-    "listing_pages_processed_count": 1,
+    "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Massachusetts": {
     "status": "in_progress",
@@ -349,7 +353,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Michigan": {
     "status": "in_progress",
@@ -364,22 +368,24 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Minnesota": {
     "status": "in_progress",
-    "records_collected": 2,
-    "firm_bearing_records": 2,
+    "records_collected": 4,
+    "firm_bearing_records": 4,
     "cities_seen": [
+      "Burnsville",
       "Minneapolis",
       "Saint Paul"
     ],
     "listing_pages_processed": [
-      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota"
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota?page=2"
     ],
-    "listing_pages_processed_count": 1,
+    "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Mississippi": {
     "status": "in_progress",
@@ -393,21 +399,23 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Missouri": {
     "status": "in_progress",
-    "records_collected": 1,
-    "firm_bearing_records": 1,
+    "records_collected": 3,
+    "firm_bearing_records": 3,
     "cities_seen": [
-      "Clayton"
+      "Clayton",
+      "St. Louis"
     ],
     "listing_pages_processed": [
-      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/missouri"
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/missouri",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/missouri?page=2"
     ],
-    "listing_pages_processed_count": 1,
+    "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Montana": {
     "status": "in_progress",
@@ -421,7 +429,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Nebraska": {
     "status": "in_progress",
@@ -436,7 +444,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Nevada": {
     "status": "in_progress",
@@ -450,7 +458,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "New Hampshire": {
     "status": "in_progress",
@@ -464,30 +472,33 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "New Jersey": {
     "status": "in_progress",
-    "records_collected": 8,
-    "firm_bearing_records": 8,
+    "records_collected": 10,
+    "firm_bearing_records": 10,
     "cities_seen": [
       "Cherry Hill",
       "Edison",
+      "Freehold",
       "Maplewood",
       "Marlboro",
       "New Brunswick",
       "Paramus",
+      "Princeton",
       "Roseland",
       "Summit"
     ],
     "listing_pages_processed": [
       "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey?page=2",
       "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
       "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3"
     ],
-    "listing_pages_processed_count": 3,
+    "listing_pages_processed_count": 4,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "New Mexico": {
     "status": "in_progress",
@@ -501,7 +512,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "New York": {
     "status": "in_progress",
@@ -530,18 +541,19 @@
     ],
     "listing_pages_processed_count": 5,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "North Carolina": {
     "status": "in_progress",
-    "records_collected": 7,
-    "firm_bearing_records": 7,
+    "records_collected": 10,
+    "firm_bearing_records": 10,
     "cities_seen": [
       "Asheville",
       "Charlotte",
       "Huntersville",
       "Raleigh",
-      "Wilmington"
+      "Wilmington",
+      "Winston-Salem"
     ],
     "listing_pages_processed": [
       "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
@@ -549,7 +561,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "North Dakota": {
     "status": "no_relevant_listings_found",
@@ -559,7 +571,7 @@
     "listing_pages_processed": [],
     "listing_pages_processed_count": 0,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Ohio": {
     "status": "in_progress",
@@ -577,7 +589,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Oklahoma": {
     "status": "in_progress",
@@ -593,23 +605,24 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Oregon": {
     "status": "in_progress",
-    "records_collected": 6,
-    "firm_bearing_records": 5,
+    "records_collected": 8,
+    "firm_bearing_records": 6,
     "cities_seen": [
       "Bend",
       "Lake Oswego",
       "Portland"
     ],
     "listing_pages_processed": [
-      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon"
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon?page=2"
     ],
-    "listing_pages_processed_count": 1,
+    "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Pennsylvania": {
     "status": "in_progress",
@@ -630,7 +643,7 @@
     ],
     "listing_pages_processed_count": 3,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Rhode Island": {
     "status": "in_progress",
@@ -645,7 +658,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "South Carolina": {
     "status": "in_progress",
@@ -659,7 +672,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "South Dakota": {
     "status": "in_progress",
@@ -673,12 +686,12 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Tennessee": {
     "status": "in_progress",
-    "records_collected": 6,
-    "firm_bearing_records": 6,
+    "records_collected": 7,
+    "firm_bearing_records": 7,
     "cities_seen": [
       "Brentwood",
       "Chattanooga",
@@ -686,11 +699,12 @@
       "Nashville"
     ],
     "listing_pages_processed": [
-      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee"
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee?page=2"
     ],
-    "listing_pages_processed_count": 1,
+    "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Texas": {
     "status": "in_progress",
@@ -717,7 +731,7 @@
     ],
     "listing_pages_processed_count": 5,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Utah": {
     "status": "in_progress",
@@ -733,7 +747,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Vermont": {
     "status": "in_progress",
@@ -747,7 +761,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Virginia": {
     "status": "in_progress",
@@ -766,7 +780,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Washington": {
     "status": "in_progress",
@@ -783,7 +797,7 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "West Virginia": {
     "status": "in_progress",
@@ -797,7 +811,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Wisconsin": {
     "status": "in_progress",
@@ -813,7 +827,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "Wyoming": {
     "status": "failed_or_inaccessible",
@@ -828,7 +842,7 @@
     ],
     "listing_pages_processed_count": 1,
     "note": "Listings processed; only solo / in-house lawyers found, no identifiable law firm (excluded per rules)",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   },
   "District of Columbia": {
     "status": "in_progress",
@@ -843,6 +857,6 @@
     ],
     "listing_pages_processed_count": 2,
     "note": "",
-    "updated_at": "2026-10-29T04:30:19+00:00"
+    "updated_at": "2026-10-29T04:31:15+00:00"
   }
 }

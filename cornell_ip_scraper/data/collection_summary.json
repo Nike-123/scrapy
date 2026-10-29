@@ -1,10 +1,10 @@
 {
-  "raw_records_collected": 251,
-  "raw_firm_bearing_records": 233,
-  "excluded_no_identifiable_firm": 18,
-  "duplicate_records_removed": 9,
-  "unique_firms_remaining": 224,
-  "firms_with_verified_website": 223,
+  "raw_records_collected": 267,
+  "raw_firm_bearing_records": 248,
+  "excluded_no_identifiable_firm": 19,
+  "duplicate_records_removed": 10,
+  "unique_firms_remaining": 238,
+  "firms_with_verified_website": 237,
   "firms_with_blank_website": 1,
   "states_discovered": 51,
   "states_with_unique_firms": 48,
@@ -66,7 +66,7 @@
     "Alaska",
     "Wyoming"
   ],
-  "cities_processed": 155,
+  "cities_processed": 163,
   "output": "/home/user/scrapy/cornell_ip_scraper/output/IP_Law_Firms.xlsx",
   "duplicates": [
     {
@@ -167,6 +167,17 @@
       "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia?page=2",
       "note": "Founding partner at Dunlap Bennett & Ludwig per profile biography; Leesburg card on VA listing",
       "_duplicate_of_firm": "Dunlap Bennett & Ludwig PLLC"
+    },
+    {
+      "lawyer_name": "Michael Johnson",
+      "firm_name": "Johnson, Evans & Headrick, P.C.",
+      "website": "https://johnsonevans.law/",
+      "state": "Tennessee",
+      "city": "Nashville",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-johnson-1884877",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee?page=2",
+      "note": "Firm named in biography ('Before joining Johnson Evans & Headrick'); firm + Nashville address in Contact & Map",
+      "_duplicate_of_firm": "Johnson Evans & Headrick, P.C."
     }
   ]
 }
