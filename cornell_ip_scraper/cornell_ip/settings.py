@@ -1,0 +1,11 @@
+BOT_NAME = "cornell_ip"
+SPIDER_MODULES = ["cornell_ip.spiders"]
+NEWSPIDER_MODULE = "cornell_ip.spiders"
+ROBOTSTXT_OBEY = True
+USER_AGENT = "cornell-ip-firms-research (+https://lawyers.law.cornell.edu)"
+CONCURRENT_REQUESTS = 8
+DOWNLOAD_DELAY = 0.5
+AUTOTHROTTLE_ENABLED = True
+RETRY_TIMES = 3
+LOG_LEVEL = "INFO"
+CORNELL_OUTPUT_XLSX = "US_IP_Law_Firms_Cornell.xlsx"
