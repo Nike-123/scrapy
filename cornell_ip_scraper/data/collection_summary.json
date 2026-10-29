@@ -1,10 +1,10 @@
 {
-  "raw_records_collected": 275,
-  "raw_firm_bearing_records": 256,
+  "raw_records_collected": 285,
+  "raw_firm_bearing_records": 266,
   "excluded_no_identifiable_firm": 19,
-  "duplicate_records_removed": 14,
-  "unique_firms_remaining": 242,
-  "firms_with_verified_website": 241,
+  "duplicate_records_removed": 16,
+  "unique_firms_remaining": 250,
+  "firms_with_verified_website": 249,
   "firms_with_blank_website": 1,
   "states_discovered": 51,
   "states_with_unique_firms": 48,
@@ -66,7 +66,7 @@
     "Alaska",
     "Wyoming"
   ],
-  "cities_processed": 166,
+  "cities_processed": 172,
   "output": "/home/user/scrapy/cornell_ip_scraper/output/IP_Law_Firms.xlsx",
   "duplicates": [
     {
@@ -222,6 +222,28 @@
       "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma?page=2",
       "note": "Partner at Cantrell Law Firm in Edmond per profile biography; firm + Edmond address in Contact & Map",
       "_duplicate_of_firm": "Cantrell Law Firm"
+    },
+    {
+      "lawyer_name": "Julie Ann Tennyson",
+      "firm_name": "Marcum Tennyson PLLC",
+      "website": "http://marcumtennyson.com/",
+      "state": "Kentucky",
+      "city": "Paducah",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/julie-ann-tennyson-339119",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kentucky?page=2",
+      "note": "Member, Marcum Tennyson PLLC per profile Professional Experience; Paducah PO Box in Contact & Map",
+      "_duplicate_of_firm": "Marcum Tennyson PLLC"
+    },
+    {
+      "lawyer_name": "Robert P. Cogan",
+      "firm_name": "Continuum Law",
+      "website": "https://www.continuumlaw.com/",
+      "state": "California",
+      "city": "San Diego",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/robert-p-cogan-198613",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=4",
+      "note": "Professional Experience lists Continuum Law; firm + San Diego address in Contact & Map",
+      "_duplicate_of_firm": "Continuum Law"
     }
   ]
 }
