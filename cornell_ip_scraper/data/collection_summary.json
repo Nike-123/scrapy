@@ -1,10 +1,10 @@
 {
-  "raw_records_collected": 267,
-  "raw_firm_bearing_records": 248,
+  "raw_records_collected": 275,
+  "raw_firm_bearing_records": 256,
   "excluded_no_identifiable_firm": 19,
-  "duplicate_records_removed": 10,
-  "unique_firms_remaining": 238,
-  "firms_with_verified_website": 237,
+  "duplicate_records_removed": 14,
+  "unique_firms_remaining": 242,
+  "firms_with_verified_website": 241,
   "firms_with_blank_website": 1,
   "states_discovered": 51,
   "states_with_unique_firms": 48,
@@ -66,7 +66,7 @@
     "Alaska",
     "Wyoming"
   ],
-  "cities_processed": 163,
+  "cities_processed": 166,
   "output": "/home/user/scrapy/cornell_ip_scraper/output/IP_Law_Firms.xlsx",
   "duplicates": [
     {
@@ -178,6 +178,50 @@
       "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee?page=2",
       "note": "Firm named in biography ('Before joining Johnson Evans & Headrick'); firm + Nashville address in Contact & Map",
       "_duplicate_of_firm": "Johnson Evans & Headrick, P.C."
+    },
+    {
+      "lawyer_name": "B C Killough",
+      "firm_name": "Kim, Lahey & Killough",
+      "website": "https://www.kimandlahey.com/our-team/bc-killough/",
+      "state": "South Carolina",
+      "city": "Charleston",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/b-c-killough-886582",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-carolina?page=2",
+      "note": "Current role at Kim, Lahey & Killough per profile Professional Experience; firm + Charleston address in Contact & Map; directory-listed firm profile page used",
+      "_duplicate_of_firm": "Kim, Lahey & Killough"
+    },
+    {
+      "lawyer_name": "Brent Burningham",
+      "firm_name": "Burningham Business Law",
+      "website": "http://www.burninghamlaw.com/",
+      "state": "Utah",
+      "city": "Farmington",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/brent-burningham-996111",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah?page=2",
+      "note": "Founder, Burningham Business Law per profile Professional Experience; Farmington address in Contact & Map",
+      "_duplicate_of_firm": "Burningham Business Law"
+    },
+    {
+      "lawyer_name": "Sarah Hartsfield",
+      "firm_name": "Hartsfield & Egbert PLLC",
+      "website": "https://www.helawok.com/",
+      "state": "Oklahoma",
+      "city": "Edmond",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/sarah-hartsfield-1663774",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma?page=2",
+      "note": "Partner, Hartsfield & Egbert PLLC per profile Professional Experience; Edmond address in Contact & Map",
+      "_duplicate_of_firm": "Hartsfield & Egbert PLLC"
+    },
+    {
+      "lawyer_name": "Blake Cantrell",
+      "firm_name": "Cantrell Law Firm",
+      "website": "https://cantrellfirm.com/",
+      "state": "Oklahoma",
+      "city": "Edmond",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/blake-cantrell-1726446",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma?page=2",
+      "note": "Partner at Cantrell Law Firm in Edmond per profile biography; firm + Edmond address in Contact & Map",
+      "_duplicate_of_firm": "Cantrell Law Firm"
     }
   ]
 }
