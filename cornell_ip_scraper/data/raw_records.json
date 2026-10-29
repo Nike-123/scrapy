@@ -1,0 +1,2132 @@
+[
+ {
+  "lawyer_name": "Michael Flynn",
+  "firm_name": "Morris, Nichols, Arsht & Tunnell LLP",
+  "website": "https://www.mnat.com/attorneys/michael-j-flynn/",
+  "state": "Delaware",
+  "city": "Wilmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-flynn-1531447",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware",
+  "note": "Firm + address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "David Holloway",
+  "firm_name": "Holloway Law",
+  "website": "http://www.holloway-law.com/",
+  "state": "Delaware",
+  "city": "Wilmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-holloway-1520748",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware",
+  "note": "Firm + address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Kenneth Dorsney",
+  "firm_name": "",
+  "website": "",
+  "state": "Delaware",
+  "city": "Wilmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kenneth-dorsney-577545",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware",
+  "note": "EXCLUDED: profile Contact & Map shows address only, no identifiable firm name"
+ },
+ {
+  "lawyer_name": "Cortlan Hitch",
+  "firm_name": "",
+  "website": "",
+  "state": "Delaware",
+  "city": "Wilmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/cortlan-hitch-1673759",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware",
+  "note": "NOT PROFILE-CHECKED in sandbox harvest; no website on listing card"
+ },
+ {
+  "lawyer_name": "Christopher L. Lockwood",
+  "firm_name": "Wilmer & Lee, P.A.",
+  "website": "http://www.wilmerandlee.com/",
+  "state": "Alabama",
+  "city": "Huntsville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/christopher-l-lockwood-1529465",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/alabama",
+  "note": "Firm + address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Morris Wade Richardson",
+  "firm_name": "RichardsonClement, PC",
+  "website": "http://www.defendingbusiness.com/",
+  "state": "Alabama",
+  "city": "Birmingham",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/morris-wade-richardson-1528982",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/alabama",
+  "note": "Firm from profile Professional Experience (Attorney, RichardsonClement PC); city from listing card + profile address state AL"
+ },
+ {
+  "lawyer_name": "Lars Danner",
+  "firm_name": "",
+  "website": "",
+  "state": "Alaska",
+  "city": "Anchorage",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/lars-danner-896241",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/alaska",
+  "note": "EXCLUDED: in-house Assistant General Counsel, ACS Alaska - not a law firm"
+ },
+ {
+  "lawyer_name": "Thomas Galvani",
+  "firm_name": "Thomas W. Galvani, P.C.",
+  "website": "http://www.galvanilegal.com/",
+  "state": "Arizona",
+  "city": "Phoenix",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-galvani-680270",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arizona",
+  "note": "Firm + address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Joseph Davidson Calhoun",
+  "firm_name": "CALHOUN LAW FIRM",
+  "website": "https://www.calhounlawfirm.com/",
+  "state": "Arkansas",
+  "city": "Little Rock",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/joseph-davidson-calhoun-151484",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arkansas",
+  "note": "Firm + primary Little Rock address in profile Contact & Map (2nd SF office ignored, one record per firm)"
+ },
+ {
+  "lawyer_name": "William Henry Ferguson III",
+  "firm_name": "",
+  "website": "",
+  "state": "Wyoming",
+  "city": "Jackson",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/william-henry-ferguson-iii-182483",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wyoming",
+  "note": "EXCLUDED: no firm name in profile Contact & Map (solo)"
+ },
+ {
+  "lawyer_name": "Denny Harts",
+  "firm_name": "",
+  "website": "",
+  "state": "Wyoming",
+  "city": "Douglas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/denny-harts-903279",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wyoming",
+  "note": "EXCLUDED: profile Contact & Map headed 'Office' only, no identifiable firm name"
+ },
+ {
+  "lawyer_name": "Robyn T. Williams",
+  "firm_name": "Devlin Law Firm",
+  "website": "http://devlinlawfirm.com/",
+  "state": "Delaware",
+  "city": "Wilmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/robyn-t-williams-1587337",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware",
+  "note": "Firm + Wilmington address in profile Contact & Map; firm homepage listed on profile as Devlin Law Firm LLC Website. Sponsored cards in other states are the same lawyer/firm - not separate state records"
+ },
+ {
+  "lawyer_name": "Bill Hulsey",
+  "firm_name": "HULSEY PC",
+  "website": "https://www.hulseyiplaw.com/",
+  "state": "Texas",
+  "city": "Austin",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/bill-hulsey-223686",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Founder & Principal, HULSEY PC (profile Professional Experience); Austin TX card on Texas listing. Sponsored 'Serving' cards in AL/AR/other states are duplicates of this firm, primary TX office used"
+ },
+ {
+  "lawyer_name": "Michael Gerity",
+  "firm_name": "Israel & Gerity, PLLC",
+  "website": "https://www.ig-law.com/bankruptcy/",
+  "state": "Arizona",
+  "city": "Phoenix",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-gerity-673404",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arizona",
+  "note": "Managing Partner, Israel & Gerity PLLC (profile Professional Experience + biography); Phoenix card on Arizona listing; website = directory View Website"
+ },
+ {
+  "lawyer_name": "Bao Tran",
+  "firm_name": "Patent PC",
+  "website": "https://www.patentpc.com/",
+  "state": "California",
+  "city": "Santa Clara",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/bao-tran-154816",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "Founder, Patent PC (formerly Tran & Associates) per profile Professional Experience; Santa Clara card on California listing"
+ },
+ {
+  "lawyer_name": "Matthew Benson",
+  "firm_name": "Hogue Law Firm",
+  "website": "",
+  "state": "Arkansas",
+  "city": "Fayetteville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/matthew-benson-1558245",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arkansas",
+  "note": "Firm + Fayetteville address in profile Contact & Map. Website left blank: listing View Website (wh.law) conflicts with Contact firm, could not verify as this firm's site"
+ },
+ {
+  "lawyer_name": "Sul Lee",
+  "firm_name": "Sul Lee Law Firm, PLLC",
+  "website": "https://www.sulleelaw.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/sul-lee-1574031",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Principal Attorney, Sul Lee Law Firm PLLC (profile Professional Experience/Publications); Dallas card on Texas listing"
+ },
+ {
+  "lawyer_name": "Thomas P. Howard",
+  "firm_name": "Thomas P. Howard, LLC",
+  "website": "https://www.thowardlaw.com/",
+  "state": "Colorado",
+  "city": "Louisville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-p-howard-1486410",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/colorado",
+  "note": "Firm + Louisville address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Jennifer M. McCallum",
+  "firm_name": "McCallum Law Firm",
+  "website": "http://www.mccallumlaw.net/",
+  "state": "Colorado",
+  "city": "Erie",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jennifer-m-mccallum-ph-d-esq-907528",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/colorado",
+  "note": "Firm + Erie address in profile Contact & Map; firm homepage listed on profile"
+ },
+ {
+  "lawyer_name": "Zachary S. Al-Tabbaa",
+  "firm_name": "Hall, Estill, Hardwick, Gable, Golden & Nelson, P.C.",
+  "website": "https://www.hallestill.com/our-team/zachary-s-al-tabbaa",
+  "state": "Colorado",
+  "city": "Greenwood Village",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/zachary-s-al-tabbaa-1674767",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/colorado",
+  "note": "IP Associate at firm per profile Professional Experience; Greenwood Village card on Colorado listing; website = directory View Website"
+ },
+ {
+  "lawyer_name": "David Aldrich",
+  "firm_name": "Forge IP, PLLC",
+  "website": "https://www.forgeip.com/",
+  "state": "Connecticut",
+  "city": "Shelton",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-aldrich-1664658",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/connecticut",
+  "note": "Founder/Partner Forge IP PLLC per profile; Shelton card on Connecticut listing"
+ },
+ {
+  "lawyer_name": "David Lilenfeld",
+  "firm_name": "Lilenfeld PC",
+  "website": "http://lilenfeldpc.com/",
+  "state": "Georgia",
+  "city": "Atlanta",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-lilenfeld-1513096",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/georgia",
+  "note": "Firm + Atlanta address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Seth M Reiss",
+  "firm_name": "Seth M. Reiss, AAL, ALLLC",
+  "website": "http://lex-ip.com/",
+  "state": "Hawaii",
+  "city": "Honolulu",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/seth-m-reiss-692770",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/hawaii",
+  "note": "Firm + Honolulu address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Kevin A. Hogle",
+  "firm_name": "Hogle Law, PC",
+  "website": "https://www.hoglelaw.com/",
+  "state": "Idaho",
+  "city": "Boise",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kevin-a-hogle-1412762",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/idaho",
+  "note": "Firm + first (Boise) address in profile Contact & Map; extra offices ignored, one record per firm"
+ },
+ {
+  "lawyer_name": "Steven Wieland",
+  "firm_name": "Mooney Wieland Smith & Rose PLLC",
+  "website": "https://www.mooneywieland.com/",
+  "state": "Idaho",
+  "city": "Boise",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-wieland-1511841",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/idaho",
+  "note": "Partner at firm per profile; firm name given in profile Websites & Blogs; Boise office address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Patrick Richards",
+  "firm_name": "Richards Patent Law",
+  "website": "https://www.richardspatentlaw.com/",
+  "state": "Illinois",
+  "city": "Chicago",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/patrick-richards-1483930",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/illinois",
+  "note": "Firm + Chicago address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Paul Overhauser",
+  "firm_name": "Overhauser Law Offices",
+  "website": "http://www.overhauser.com/",
+  "state": "Indiana",
+  "city": "Indianapolis",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/paul-overhauser-809451",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/indiana",
+  "note": "Attorney, Overhauser Law Offices per profile Professional Experience; Indianapolis card on Indiana listing"
+ },
+ {
+  "lawyer_name": "Patrick Murphy",
+  "firm_name": "Barrett McNagny LLP",
+  "website": "https://www.barrettlaw.com/our-people/patrick-g-murphy",
+  "state": "Indiana",
+  "city": "Fort Wayne",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/patrick-murphy-806964",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/indiana",
+  "note": "Partner, Barrett McNagny LLP per profile Professional Experience; Fort Wayne address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Mr. Brett Trout",
+  "firm_name": "Brett J. Trout, P.C.",
+  "website": "http://www.bretttrout.com/",
+  "state": "Iowa",
+  "city": "Des Moines",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/mr-brett-trout-915282",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/iowa",
+  "note": "Firm + Des Moines address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Andrew Joseph Morgan",
+  "firm_name": "McKee, Voorhees & Sease, PLC",
+  "website": "https://www.ipmvs.com/professionals/andrew-j-morgan/",
+  "state": "Iowa",
+  "city": "Des Moines",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/andrew-joseph-morgan-1673830",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/iowa",
+  "note": "Firm + Des Moines address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Garrison Matthews",
+  "firm_name": "Martin, Pringle, Oliver, Wallace and Bauer, L.L.P.",
+  "website": "https://www.martinpringle.com/attorneys/garrison-a-t-matthews",
+  "state": "Kansas",
+  "city": "Wichita",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/garrison-matthews-1813413",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kansas",
+  "note": "Firm + Wichita address in profile Contact & Map (name title-cased from directory all-caps)"
+ },
+ {
+  "lawyer_name": "Kenneth Jack",
+  "firm_name": "Davis & Jack, L.L.C.",
+  "website": "https://www.davisandjack.com/",
+  "state": "Kansas",
+  "city": "Wichita",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kenneth-jack-916063",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kansas",
+  "note": "Firm + Wichita address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Julie Ann Tennyson",
+  "firm_name": "Marcum Tennyson PLLC",
+  "website": "http://marcumtennyson.com/",
+  "state": "Kentucky",
+  "city": "Paducah",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/julie-ann-tennyson-339119",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kentucky",
+  "note": "Member, Marcum Tennyson PLLC per profile Professional Experience; Paducah address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Brad Harrigan",
+  "firm_name": "Tolar Harrigan & Morris LLC",
+  "website": "https://www.nolaipa.com/",
+  "state": "Louisiana",
+  "city": "New Orleans",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/brad-harrigan-711644",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/louisiana",
+  "note": "Firm + New Orleans address in profile Contact & Map; firm website as labelled on profile"
+ },
+ {
+  "lawyer_name": "Andrew Zulieve",
+  "firm_name": "Zulieve Law, LLC",
+  "website": "http://www.zulievelaw.com/",
+  "state": "Maine",
+  "city": "Waldoboro",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/andrew-zulieve-1011295",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maine",
+  "note": "Firm + Waldoboro address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Steven D. Silverman",
+  "firm_name": "Silverman Thompson",
+  "website": "https://www.silvermanthompson.com/appeals-state-federal",
+  "state": "Maryland",
+  "city": "Baltimore",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-d-silverman-603893",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland",
+  "note": "Managing Partner, Silverman Thompson per profile; Baltimore card on Maryland listing; website = directory View Website"
+ },
+ {
+  "lawyer_name": "Michael McCabe, Jr.",
+  "firm_name": "McCabe Ali LLP",
+  "website": "https://mccabeali.com/michael-e-mccabe-jr/",
+  "state": "Maryland",
+  "city": "Potomac",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-mccabe-jr-604366",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland",
+  "note": "Managing Partner of firm per profile biography; Potomac card on Maryland listing; website = directory View Website"
+ },
+ {
+  "lawyer_name": "David A. Chavous",
+  "firm_name": "Chavous Intellectual Property Law",
+  "website": "https://www.chavousiplaw.com/",
+  "state": "Massachusetts",
+  "city": "North Andover",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-a-chavous-ph-d-1333470",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/massachusetts",
+  "note": "Firm + North Andover address in profile Contact & Map; firm homepage listed on profile"
+ },
+ {
+  "lawyer_name": "Dawn Mertineit",
+  "firm_name": "Seyfarth Shaw LLP",
+  "website": "https://www.seyfarth.com/people/dawn-mertineit.html",
+  "state": "Massachusetts",
+  "city": "Boston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/dawn-mertineit-1441356",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/massachusetts",
+  "note": "Partner, Seyfarth Shaw LLP per profile; Boston card on Massachusetts listing; website = directory View Website"
+ },
+ {
+  "lawyer_name": "Enrico Schaefer",
+  "firm_name": "Traverse Legal, PLC",
+  "website": "http://www.traverselegal.com/",
+  "state": "Michigan",
+  "city": "Traverse City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/enrico-schaefer-729734",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/michigan",
+  "note": "Founding Attorney, Traverse Legal PLC per profile; Traverse City card on Michigan listing"
+ },
+ {
+  "lawyer_name": "Stephen Kontos",
+  "firm_name": "VELN",
+  "website": "https://www.velnlegal.com/",
+  "state": "Michigan",
+  "city": "Royal Oak",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/stephen-kontos-1662761",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/michigan",
+  "note": "Head of Intellectual Property, VELN per profile Professional Experience/Websites; Royal Oak card on Michigan listing"
+ },
+ {
+  "lawyer_name": "Eran Kahana",
+  "firm_name": "Maslon LLP",
+  "website": "https://www.maslon.com/ekahana",
+  "state": "Minnesota",
+  "city": "Minneapolis",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/eran-kahana-936981",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota",
+  "note": "AI/Cybersecurity/IP Attorney, Maslon LLP per profile Professional Experience; Minneapolis card on Minnesota listing"
+ },
+ {
+  "lawyer_name": "Kenneth Kunkle",
+  "firm_name": "Kunkle Trademark and Legal",
+  "website": "http://www.kunklelaw.com/",
+  "state": "Minnesota",
+  "city": "Saint Paul",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kenneth-kunkle-1481738",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota",
+  "note": "Firm + Saint Paul address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Jason Savarese",
+  "firm_name": "Savarese & Associates, PLLC",
+  "website": "http://www.savareselegal.com/",
+  "state": "Mississippi",
+  "city": "Gulfport",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jason-savarese-948586",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/mississippi",
+  "note": "Attorney/Managing Member of firm per profile Professional Experience; Gulfport card on Mississippi listing"
+ },
+ {
+  "lawyer_name": "Timothy Charles Holleman",
+  "firm_name": "Boyce Holleman & Associates",
+  "website": "https://www.boyceholleman.com/",
+  "state": "Mississippi",
+  "city": "Gulfport",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/timothy-charles-holleman-947852",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/mississippi",
+  "note": "Firm + Gulfport address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Matthew Lawrence Cutler",
+  "firm_name": "Harness IP",
+  "website": "https://www.harnessip.com/people/matthew-l-cutler/",
+  "state": "Missouri",
+  "city": "Clayton",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/matthew-lawrence-cutler-1778970",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/missouri",
+  "note": "Firm + Clayton address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Jean E. Faure",
+  "firm_name": "Faure Holden Attorneys at Law, P.C.",
+  "website": "http://www.faureholden.com/",
+  "state": "Montana",
+  "city": "Great Falls",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jean-e-faure-953428",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/montana",
+  "note": "President/Managing Partner per profile; Contact & Map lists 'Home Office' Great Falls (used as primary) plus Bozeman/Helena branches - one record per firm"
+ },
+ {
+  "lawyer_name": "J. Daniel Weidner",
+  "firm_name": "Koley Jessen P.C. L.L.O.",
+  "website": "http://www.koleyjessen.com/",
+  "state": "Nebraska",
+  "city": "Omaha",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/j-daniel-weidner-736026",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nebraska",
+  "note": "Firm + Omaha address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Matt Catlett",
+  "firm_name": "",
+  "website": "http://www.catlettlaw.com/",
+  "state": "Nebraska",
+  "city": "Lincoln",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/matt-catlett-1484863",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nebraska",
+  "note": "EXCLUDED: profile Contact & Map headed 'The Creamery Building' only, no identifiable law-firm name"
+ },
+ {
+  "lawyer_name": "Ryan Gile",
+  "firm_name": "Gile Law Group Ltd.",
+  "website": "http://www.gilelawgroup.com/",
+  "state": "Nevada",
+  "city": "Las Vegas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ryan-gile-759768",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nevada",
+  "note": "Firm + Las Vegas address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Scott D. Thornton",
+  "firm_name": "The Thornton Firm, LLC",
+  "website": "https://www.thethorntonfirm.com/",
+  "state": "Nevada",
+  "city": "Las Vegas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/scott-d-thornton-1517009",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nevada",
+  "note": "Firm name as labelled in profile Websites & Blogs; Las Vegas 'Headquarters' in Contact & Map"
+ },
+ {
+  "lawyer_name": "Charlotte Holoubek",
+  "firm_name": "Holoubek Patent Law, LLC",
+  "website": "https://www.holoubeklaw.com/",
+  "state": "Louisiana",
+  "city": "Shreveport",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/charlotte-holoubek-1483006",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-hampshire",
+  "note": "Found on NH listing (Concord Of-Counsel card) but profile's first Contact & Map block is her own firm in Shreveport LA; recorded once at that primary address. NH also covered separately by Hage Hodes"
+ },
+ {
+  "lawyer_name": "Jamie Hage",
+  "firm_name": "Hage Hodes Professional Association",
+  "website": "https://www.hagehodes.com/",
+  "state": "New Hampshire",
+  "city": "Manchester",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jamie-hage-1417430",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-hampshire",
+  "note": "Firm + Manchester address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Emmanuel Coffy",
+  "firm_name": "COFFYLAW, LLC",
+  "website": "http://www.coffylaw.com/",
+  "state": "New Jersey",
+  "city": "Maplewood",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/emmanuel-coffy-1501619",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "COFFYLAW LLC per profile Professional Experience ('manager of the firm'); Maplewood card on NJ listing"
+ },
+ {
+  "lawyer_name": "Carrie A. Ward",
+  "firm_name": "Earp Cohn P.C.",
+  "website": "https://earpcohn.com/",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/carrie-a-ward-1528142",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Found on NJ listing (Cherry Hill card); profile Contact & Map gives Earp Cohn P.C., Philadelphia PA - recorded at profile primary address"
+ },
+ {
+  "lawyer_name": "Alberto Leon",
+  "firm_name": "ALEONLAW, P.C.",
+  "website": "http://www.aleonlaw.com/",
+  "state": "New Mexico",
+  "city": "Albuquerque",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/alberto-leon-760821",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-mexico",
+  "note": "Firm + Albuquerque address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Laurence Donahue",
+  "firm_name": "Law 4 Small Business",
+  "website": "http://www.l4sb.com/",
+  "state": "New Mexico",
+  "city": "Albuquerque",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/laurence-donahue-761965",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-mexico",
+  "note": "Firm + Albuquerque address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Allison L. Harrison",
+  "firm_name": "Allison L. Harrison Law, LLC",
+  "website": "https://www.alharrisonlaw.com/",
+  "state": "Ohio",
+  "city": "Columbus",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/allison-l-harrison-1665485",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio",
+  "note": "Firm + Columbus address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Josiah Collier",
+  "firm_name": "Collier Legal, LLC",
+  "website": "https://www.collierlegaloh.com/",
+  "state": "Ohio",
+  "city": "Medina",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/josiah-collier-1531700",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio",
+  "note": "Firm + first (Medina) address in profile Contact & Map; Albany/Kansas City/Columbus/Long Island City offices ignored, one record per firm. Same lawyer also appears on Missouri listing"
+ },
+ {
+  "lawyer_name": "Blake Cantrell",
+  "firm_name": "Cantrell Law Firm",
+  "website": "https://cantrellfirm.com/",
+  "state": "Oklahoma",
+  "city": "Edmond",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/blake-cantrell-1726446",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma",
+  "note": "Firm + Edmond address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Sarah Hartsfield",
+  "firm_name": "Hartsfield & Egbert PLLC",
+  "website": "https://www.helawok.com/",
+  "state": "Oklahoma",
+  "city": "Edmond",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/sarah-hartsfield-1663774",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma",
+  "note": "Partner, Hartsfield & Egbert PLLC per profile Professional Experience; Edmond address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Jim Boness",
+  "firm_name": "INTELLEQUITY Legal Services, LLC",
+  "website": "https://www.intellequityip.com/",
+  "state": "Oregon",
+  "city": "Portland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jim-boness-1588973",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "Owner/Attorney of firm per profile Professional Experience; Portland card on Oregon listing"
+ },
+ {
+  "lawyer_name": "Michael Stadnick",
+  "firm_name": "Stadnick Nowierski-Stadnick LLP",
+  "website": "https://www.snsbend.com/",
+  "state": "Oregon",
+  "city": "Bend",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-stadnick-1273821",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "Firm + Bend address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Kas DeCarvalho",
+  "firm_name": "Pannone Lopes Devereaux & O'Gara LLC",
+  "website": "http://www.pldolaw.com/",
+  "state": "Rhode Island",
+  "city": "Johnston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kas-decarvalho-977205",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/rhode-island",
+  "note": "Partner at firm per profile biography/Professional Experience; Johnston card on RI listing. Same lawyer also appears on Massachusetts (Boston) listing - one record only"
+ },
+ {
+  "lawyer_name": "Michel Morency",
+  "firm_name": "Adler Pollock & Sheehan P.C.",
+  "website": "https://www.apslaw.com/attorney/michel-mike-morency-ph-d/",
+  "state": "Rhode Island",
+  "city": "Providence",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michel-mike-morency-1452858",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/rhode-island",
+  "note": "At Adler Pollock & Sheehan P.C. per profile Professional Experience; Providence card on RI listing (also Boston MA card - one record per firm)"
+ },
+ {
+  "lawyer_name": "B C Killough",
+  "firm_name": "Kim, Lahey & Killough",
+  "website": "https://www.charlestonpatentattorney.com/",
+  "state": "South Carolina",
+  "city": "Charleston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/b-c-killough-886582",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-carolina",
+  "note": "Firm + Charleston address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Brian Donahoe",
+  "firm_name": "Donahoe Law Firm, P.C.",
+  "website": "http://donahoelawfirm.com/",
+  "state": "South Dakota",
+  "city": "Sioux Falls",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/brian-donahoe-978547",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-dakota",
+  "note": "Firm + Sioux Falls address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Kevin Lumpkin",
+  "firm_name": "Sheehey Furlong & Behm P.C.",
+  "website": "https://www.sheeheyvt.com/our_team/kevin-a-lumpkin/",
+  "state": "Vermont",
+  "city": "Burlington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kevin-lumpkin-1560832",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/vermont",
+  "note": "Litigation Partner at firm per profile Professional Experience; Burlington card on VT listing; listing website URL used"
+ },
+ {
+  "lawyer_name": "Randall Bateman",
+  "firm_name": "BATEMAN IP",
+  "website": "http://www.batemanip.com/",
+  "state": "Utah",
+  "city": "Salt Lake City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/randall-bateman-997064",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah",
+  "note": "Firm + Salt Lake City address in profile Contact & Map; founder of Bateman IP Law Group per biography"
+ },
+ {
+  "lawyer_name": "Jason C. Palmer",
+  "firm_name": "Palmer Law, PLC",
+  "website": "https://palmer.law/",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jason-c-palmer-1672711",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Owner of Palmer Law PLC per profile Professional Experience/Websites; Nashville card on TN listing"
+ },
+ {
+  "lawyer_name": "Mandalay K. Martin",
+  "firm_name": "Cole Law Group, PC",
+  "website": "https://www.colelawgrouppc.com/",
+  "state": "Tennessee",
+  "city": "Brentwood",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/mandalay-k-martin-1884755",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Firm + Brentwood address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Thomas M. Dunlap",
+  "firm_name": "Dunlap Bennett & Ludwig PLLC",
+  "website": "https://www.dbllawyers.com/",
+  "state": "Virginia",
+  "city": "Leesburg",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-m-dunlap-772686",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia",
+  "note": "Founding partner at firm per profile biography; Leesburg card on VA listing"
+ },
+ {
+  "lawyer_name": "J.D. Houvener",
+  "firm_name": "Bold IP",
+  "website": "https://boldip.com/",
+  "state": "Washington",
+  "city": "Mountlake Terrace",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/j-d-houvener-1502829",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington",
+  "note": "Founder, Bold IP per profile; firm also trades as Bold Patents; Mountlake Terrace card on WA listing (same lawyer also appears on Illinois/Chicago listing - one record only)"
+ },
+ {
+  "lawyer_name": "J. Tanner James",
+  "firm_name": "James Legal, PLLC",
+  "website": "https://www.jameslegalwv.com/",
+  "state": "West Virginia",
+  "city": "Fairmont",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/j-tanner-james-1640263",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/west-virginia",
+  "note": "Firm + Fairmont address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Josh Gerben",
+  "firm_name": "Gerben IP",
+  "website": "https://www.gerbenlaw.com/",
+  "state": "District of Columbia",
+  "city": "Washington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/josh-gerben-1492880",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/dc/washington-dc",
+  "note": "Firm + Washington DC address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "William Scott Goldman",
+  "firm_name": "GOLDMAN LAW GROUP, PLLC",
+  "website": "https://goldmanlawgroup.com/",
+  "state": "District of Columbia",
+  "city": "Washington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/william-scott-goldman-576160",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/dc/washington-dc",
+  "note": "Firm name per profile Professional Experience; Washington DC address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Garet Galster",
+  "firm_name": "Smith Keane LLP",
+  "website": "http://www.keaneip.com/",
+  "state": "Wisconsin",
+  "city": "Pewaukee",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/garet-galster-861953",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wisconsin",
+  "note": "Firm + Pewaukee address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Randi Lisa Karpinia",
+  "firm_name": "Sagacity Legal PLLC",
+  "website": "https://www.sagacitylegal.com/",
+  "state": "Florida",
+  "city": "Palm Beach Gardens",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/randi-lisa-karpinia-538142",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "CEO of Sagacity Legal PLLC per profile Professional Experience; Palm Beach Gardens card on FL listing"
+ },
+ {
+  "lawyer_name": "Giancarla Sambo",
+  "firm_name": "",
+  "website": "",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/giancarla-sambo-1615856",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "EXCLUDED: profile shows an individual practice ('Giancarla Sambo, Esq.' principal; earlier 'Law Office of Giancarla Sambo'), no law firm entity identifiable"
+ },
+ {
+  "lawyer_name": "Kelly Jesson",
+  "firm_name": "Jesson & Rains, PLLC",
+  "website": "https://www.jessonrainslaw.com/",
+  "state": "North Carolina",
+  "city": "Charlotte",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kelly-jesson-1510709",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
+  "note": "Firm + Charlotte address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Will Blackton",
+  "firm_name": "Boerema Blackton LLP",
+  "website": "https://www.boeremablackton.com/",
+  "state": "North Carolina",
+  "city": "Raleigh",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/will-blackton-1520632",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
+  "note": "Partner, Boerema Blackton LLP per profile Professional Experience/biography; Raleigh card on NC listing"
+ },
+ {
+  "lawyer_name": "Leonard M. Fogelman",
+  "firm_name": "Korngut Paleudis LLC",
+  "website": "https://www.kplawyers.com/",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/leonard-m-fogelman-1102582",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Of Counsel, Korngut Paleudis LLC per profile; NYC office in Contact & Map (also founding partner, Fogelman & Fogelman - recorded once under the firm heading his current Contact & Map blocks)"
+ },
+ {
+  "lawyer_name": "Ivan Parron",
+  "firm_name": "PARRON LAW",
+  "website": "https://www.parron.law/",
+  "state": "Florida",
+  "city": "Miami",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ivan-parron-559895",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Found on NY listing; profile biography states founder of PARRON LAW, based in Miami FL - recorded at that primary office"
+ },
+ {
+  "lawyer_name": "Evan Charles Pappas",
+  "firm_name": "Tucker Arensberg, P.C.",
+  "website": "http://www.tuckerlaw.com/",
+  "state": "Pennsylvania",
+  "city": "Lemoyne",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/evan-charles-pappas-1393067",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania",
+  "note": "Firm + Lemoyne address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Scott Allan Pullins",
+  "firm_name": "Pullins Law Firm LLC",
+  "website": "http://www.pullinslaw.com/",
+  "state": "Ohio",
+  "city": "Mount Vernon",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/scott-allan-pullins-472722",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio",
+  "note": "Firm per profile Professional Experience and Websites & Blogs label; Mount Vernon address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Karima Gulick",
+  "firm_name": "Gulick Law",
+  "website": "https://innoventlaw.com/",
+  "state": "California",
+  "city": "Irvine",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/karima-gulick-1525783",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "Contact & Map heading 'Gulick Law - Patents, Trademarks & Aviation Law', Irvine CA; firm short name per Professional Experience"
+ },
+ {
+  "lawyer_name": "Feras Mousilli",
+  "firm_name": "Lloyd Mousilli, LLC",
+  "website": "http://www.lloydmousilli.com/",
+  "state": "Texas",
+  "city": "Austin",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/feras-mousilli-287648",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Founding partner per biography; firm per Professional Experience; first (Austin) office in Contact & Map"
+ },
+ {
+  "lawyer_name": "Dustin Michael Mauck",
+  "firm_name": "RegitzMauck PLLC",
+  "website": "https://www.regitzmauck.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/dustin-michael-mauck-323877",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Firm + Dallas address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Pierre Zado",
+  "firm_name": "",
+  "website": "",
+  "state": "California",
+  "city": "San Francisco",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/pierre-zado-1491287",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "EXCLUDED: profile shows only past employers (FindLaw, Thomson Reuters), no current identifiable law firm"
+ },
+ {
+  "lawyer_name": "Lindsay Gunn Spiller",
+  "firm_name": "Spiller Law",
+  "website": "https://www.spillerlaw.com/",
+  "state": "California",
+  "city": "San Francisco",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/lindsay-gunn-spiller-128635",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "Founder of Spiller Law (San Francisco, 2006) per profile biography; San Francisco card on CA listing"
+ },
+ {
+  "lawyer_name": "Richard G. Eldredge",
+  "firm_name": "Eldredge Law Firm",
+  "website": "http://www.uslawpros.com/",
+  "state": "Texas",
+  "city": "Fort Worth",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/richard-g-eldredge-1512717",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Firm + first (Fort Worth) address in profile Contact & Map; multiple TX/CO offices ignored, one record per firm"
+ },
+ {
+  "lawyer_name": "Charles Marcellus Vethan",
+  "firm_name": "Vethan Law Firm P.C.",
+  "website": "http://vethanlaw.com/",
+  "state": "Texas",
+  "city": "Austin",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/charles-marcellus-vethan-248109",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+  "note": "Managing Partner per profile; first (Austin) office in Contact & Map; Houston/San Antonio/Dallas offices ignored"
+ },
+ {
+  "lawyer_name": "Sarah Teresa Haddad",
+  "firm_name": "Pendulum Legal PC",
+  "website": "https://www.pendulumlegal.com/",
+  "state": "New York",
+  "city": "New York City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/sarah-teresa-haddad-1675915",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Partner of Pendulum Legal PC per profile biography; New York City card on NY listing"
+ },
+ {
+  "lawyer_name": "Anthony Wilkinson",
+  "firm_name": "Wilkinson Law LLC",
+  "website": "https://www.wilkinsonlawllc.com/",
+  "state": "New Jersey",
+  "city": "Edison",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/anthony-wilkinson-1084299",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Founder, Wilkinson Law LLC per profile Professional Experience; Edison card on NJ listing (also appears on NY listing - one record only)"
+ },
+ {
+  "lawyer_name": "Jo-Anne Yau",
+  "firm_name": "Yau Law Firm",
+  "website": "http://www.yaulaw.com/",
+  "state": "Florida",
+  "city": "Jacksonville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jo-anne-yau-556353",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Firm + Jacksonville address in profile Contact & Map ('The Yau Law Firm' in Professional Experience)"
+ },
+ {
+  "lawyer_name": "Jason Murray",
+  "firm_name": "K&L Gates LLP",
+  "website": "http://www.klgates.com/jason-m-murray/",
+  "state": "Florida",
+  "city": "Miami",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jason-murray-645963",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Partner, K&L Gates LLP per profile Professional Experience; Miami card on FL listing; directory-listed firm URL used"
+ },
+ {
+  "lawyer_name": "Joseph Trojan",
+  "firm_name": "Trojan Law Offices",
+  "website": "http://www.trojanlawoffices.com/",
+  "state": "California",
+  "city": "Beverly Hills",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/joseph-trojan-99370",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "Owner, Trojan Law Offices per profile Professional Experience; Beverly Hills card on CA listing"
+ },
+ {
+  "lawyer_name": "Tre Lovell",
+  "firm_name": "The Lovell Firm, P.C.",
+  "website": "http://www.lovellfirm.com/",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/tre-lovell-1513413",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+  "note": "Owner, The Lovell Firm P.C. per profile Professional Experience; Los Angeles card on CA listing"
+ },
+ {
+  "lawyer_name": "Nikki Adamo Siesel",
+  "firm_name": "Law Offices of Nikki Siesel, PLLC",
+  "website": "http://www.ny-trademark-lawyer.com/",
+  "state": "New York",
+  "city": "White Plains",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/nikki-adamo-siesel-1219137",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Firm + White Plains address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Caroline Ismay Keegan",
+  "firm_name": "Kurzman Eisenberg Corbin & Lever, LLP",
+  "website": "https://www.kelaw.com/",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/caroline-ismay-keegan-1624716",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Firm + New York address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Philip K. Calandrino",
+  "firm_name": "Forward Law Firm",
+  "website": "https://forwardlawfirm.com/",
+  "state": "Florida",
+  "city": "Orlando",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/philip-k-calandrino-510451",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Firm + Orlando address in profile Contact & Map (Professional Experience still names his earlier Calandrino Law Firm P.A.; Contact & Map treated as current)"
+ },
+ {
+  "lawyer_name": "Greg M. Popowitz",
+  "firm_name": "Assouline & Berlowe, P.A.",
+  "website": "http://www.assoulineberlowe.com/",
+  "state": "Florida",
+  "city": "Fort Lauderdale",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/greg-m-popowitz-1495370",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Partner, Assouline & Berlowe P.A., Fort Lauderdale office per profile biography/Professional Experience; Fort Lauderdale card on FL listing"
+ },
+ {
+  "lawyer_name": "Christian Jay Sanchelima",
+  "firm_name": "Sanchelima & Associates, P.A.",
+  "website": "http://www.sanchelima.com/",
+  "state": "Florida",
+  "city": "Miami",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/christian-jay-sanchelima-1525018",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Managing Partner per profile Professional Experience; Miami address in Contact & Map"
+ },
+ {
+  "lawyer_name": "B. Kevin Burke Jr.",
+  "firm_name": "Gross Shuman PC",
+  "website": "https://www.gross-shuman.com/",
+  "state": "New York",
+  "city": "Buffalo",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/b-kevin-burke-jr-1265095",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+  "note": "Firm + Buffalo address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "John Rizvi",
+  "firm_name": "John Rizvi, P.A. - The Patent Professor",
+  "website": "http://www.thepatentprofessor.com/",
+  "state": "Florida",
+  "city": "Coral Springs",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-rizvi-522396",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+  "note": "Owner & Registered Patent Attorney of firm per profile Professional Experience; Coral Springs card on FL listing"
+ },
+ {
+  "lawyer_name": "Robert P. Cogan",
+  "firm_name": "Continuum Law",
+  "website": "https://www.continuumlaw.com/",
+  "state": "California",
+  "city": "San Diego",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/robert-p-cogan-198613",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Firm + San Diego address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Jon Michaelson",
+  "firm_name": "Structure Law Group, LLP",
+  "website": "https://www.structurelaw.com/",
+  "state": "California",
+  "city": "San Jose",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jon-michaelson-28855",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Firm + San Jose address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Geoffrey George Gussis",
+  "firm_name": "Geoffrey G. Gussis LLC",
+  "website": "https://www.gussislaw.com/",
+  "state": "New Jersey",
+  "city": "New Brunswick",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/geoffrey-george-gussis-1065863",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Firm per profile Professional Experience; first (New Brunswick NJ) address in Contact & Map; also NY office - one record"
+ },
+ {
+  "lawyer_name": "Ekaterina Mouratova",
+  "firm_name": "The Law Firm of Ekaterina Mouratova, PLLC",
+  "website": "http://www.mouratovalawfirm.com/",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ekaterina-mouratova-1494316",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Founder/principal of firm per profile biography/Professional Experience; New York address in Contact & Map"
+ },
+ {
+  "lawyer_name": "John Chandler",
+  "firm_name": "",
+  "website": "",
+  "state": "Texas",
+  "city": "Austin",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-chandler-295225",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "EXCLUDED: ambiguous - Contact & Map headed 'Office' only; Websites label 'Chandler IP' conflicts with Professional Experience (Meline Law Firm, pllc); firm not reliably identifiable"
+ },
+ {
+  "lawyer_name": "John J Davis III",
+  "firm_name": "Kearney, McWilliams & Davis, PLLC",
+  "website": "https://www.kmd.law/",
+  "state": "Texas",
+  "city": "Midland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-j-davis-iii-1495624",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "Founder and Managing Member per profile biography; Midland card on TX listing page 2"
+ },
+ {
+  "lawyer_name": "Logan Kyle McEwen",
+  "firm_name": "Marks Gray, P.A.",
+  "website": "http://www.marksgray.com/",
+  "state": "Florida",
+  "city": "Jacksonville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/logan-kyle-mcewen-1498449",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Firm + Jacksonville address in profile Contact & Map (Professional Experience names a different current firm, McEwen DuBovis P.A.; Contact & Map treated as directory-verified address)"
+ },
+ {
+  "lawyer_name": "Nouvelle Gonzalo",
+  "firm_name": "Gonzalo Law PLLC",
+  "website": "https://gonzalolaw.com/",
+  "state": "Florida",
+  "city": "Gainesville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/nouvelle-gonzalo-1587644",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Founder and Managing Attorney per profile Professional Experience; Gainesville card on FL listing page 2 (also appears on Ohio/Cleveland listing - one record only)"
+ },
+ {
+  "lawyer_name": "David Martinez",
+  "firm_name": "Robins Kaplan LLP",
+  "website": "https://www.robinskaplan.com/professionals/m/david-martinez",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-martinez-179265",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "At Robins Kaplan LLP per profile Professional Experience/publications; Los Angeles card on CA listing page 2; directory-listed firm URL used"
+ },
+ {
+  "lawyer_name": "Steven Anton Nielsen",
+  "firm_name": "",
+  "website": "",
+  "state": "California",
+  "city": "Larkspur",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-anton-nielsen-142455",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "EXCLUDED: Contact & Map headed 'Steve Nielsen Patent Attorney' - individual patent practice, no law firm entity identifiable"
+ },
+ {
+  "lawyer_name": "Aidan Murray",
+  "firm_name": "Lax, Neville & Intelisano, LLP",
+  "website": "https://www.laxneville.com/",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/aidan-murray-1812311",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Firm + first (New York Office) address in profile Contact & Map; Connecticut office ignored"
+ },
+ {
+  "lawyer_name": "Steven Mark Hoffberg",
+  "firm_name": "Hoffberg & Associates",
+  "website": "https://www.hoffberglaw.com/",
+  "state": "New York",
+  "city": "West Harrison",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-mark-hoffberg-1197143",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Principal, Hoffberg & Associates per profile Professional Experience; West Harrison card on NY listing page 2"
+ },
+ {
+  "lawyer_name": "Ken Emanuelson",
+  "firm_name": "The Emanuelson Firm, P.C.",
+  "website": "https://emanuelsonfirm.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ken-emanuelson-248680",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "Firm + Dallas address in profile Contact & Map; full entity name per Websites & Blogs label"
+ },
+ {
+  "lawyer_name": "Gregory H. Guillot",
+  "firm_name": "Gregory H. Guillot, PC",
+  "website": "http://www.ggmark.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/gregory-h-guillot-569403",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "President, Gregory H Guillot PC per profile Professional Experience; Dallas address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Anton Hopen Sr",
+  "firm_name": "Smith & Hopen, PA",
+  "website": "https://www.smithhopen.com/",
+  "state": "Florida",
+  "city": "Oldsmar",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/anton-hopen-sr-1665607",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Firm + Oldsmar address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Griffin Klema",
+  "firm_name": "Klema Law, P.L.",
+  "website": "http://klemalaw.com/",
+  "state": "Florida",
+  "city": "Tampa",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/griffin-klema-1522127",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Shareholder, Klema Law P.L. per profile Professional Experience; Tampa card on FL listing page 2"
+ },
+ {
+  "lawyer_name": "Ali Shalchi",
+  "firm_name": "Burch Dallmann LLP",
+  "website": "http://burchdallmann.com/home-nivo/attorneys/ali-shalchi/",
+  "state": "California",
+  "city": "Irvine",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ali-shalchi-147077",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Of Counsel, Burch Dallmann LLP per profile Professional Experience; directory-listed firm profile URL; Irvine address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Christopher McElwain",
+  "firm_name": "Knowmad Law",
+  "website": "http://www.knowmad.law/",
+  "state": "California",
+  "city": "Monterey",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/christopher-mcelwain-1523964",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Founder/principal of Knowmad Law per profile biography; firm + Monterey address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Brian P. Kinder",
+  "firm_name": "The Kinder Law Group, APC",
+  "website": "https://tklglaw.com/",
+  "state": "California",
+  "city": "Irvine",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/brian-p-kinder-52041",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Firm + Irvine address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Eric W. Fries",
+  "firm_name": "Fries Legal",
+  "website": "http://frieslegal.com/",
+  "state": "New York",
+  "city": "Brooklyn",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/eric-w-fries-1497646",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Fries Legal per profile Professional Experience and Websites label; Brooklyn address in Contact & Map"
+ },
+ {
+  "lawyer_name": "David Haber",
+  "firm_name": "Cobert Haber & Haber, LLP",
+  "website": "https://coberthaber.com/",
+  "state": "New York",
+  "city": "Garden City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-haber-1294873",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Firm + Garden City address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Josh Gerben",
+  "firm_name": "Gerben IP",
+  "website": "https://www.gerbenlaw.com/",
+  "state": "District of Columbia",
+  "city": "Washington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/josh-gerben-1492880",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "Founder of Gerben IP per profile biography; firm + Washington DC address in Contact & Map (appears on NY listing but office is DC)"
+ },
+ {
+  "lawyer_name": "Kirby B. Drake",
+  "firm_name": "Kirby Drake Law PLLC",
+  "website": "https://www.kirbydrakelaw.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kirby-b-drake-306651",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "Founder of Kirby Drake Law PLLC per profile biography; firm + Dallas address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Craige Thompson",
+  "firm_name": "Thompson Patent Law",
+  "website": "https://www.thompsonpatentlaw.com/",
+  "state": "Texas",
+  "city": "Cedar Park",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/craige-thompson-1666026",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "Firm + Cedar Park address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Carol Elissa Thorstad",
+  "firm_name": "Fox Rothschild LLP",
+  "website": "https://www.foxrothschild.com/carol-e-thorstad-forsyth",
+  "state": "Florida",
+  "city": "West Palm Beach",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/carol-elissa-thorstad-519399",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Partner at Fox Rothschild LLP West Palm Beach office per profile biography; directory-listed firm profile URL used"
+ },
+ {
+  "lawyer_name": "John Faro",
+  "firm_name": "Faro & Associates",
+  "website": "http://www.faro-law.com/",
+  "state": "Florida",
+  "city": "Naples",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-faro-1336219",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Founder/owner Faro & Associates per profile Professional Experience; first (Naples) address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Gavin T. Elliot",
+  "firm_name": "The Elliot Legal Group, P.A.",
+  "website": "https://www.elliotlegal.com/",
+  "state": "Florida",
+  "city": "Fort Lauderdale",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/gavin-t-elliot-1662748",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Firm + first (Fort Lauderdale) address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "H. Jared Doster",
+  "firm_name": "Doster Law PLLC",
+  "website": "https://doster.law/",
+  "state": "Florida",
+  "city": "Panama City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/h-jared-doster-1674493",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Firm + Panama City address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Ava (Na) Li",
+  "firm_name": "Ava Li Law PLLC",
+  "website": "https://avalilaw.com/",
+  "state": "New York",
+  "city": "Albany",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ava-na-li-1671858",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+  "note": "Founder of Ava Li Law PLLC per profile biography; first (Albany NY) address in Contact & Map; Houston TX office ignored - one record only"
+ },
+ {
+  "lawyer_name": "William L. Bretschneider",
+  "firm_name": "Silicon Valley Law Group",
+  "website": "http://www.svlg.com/",
+  "state": "California",
+  "city": "San Jose",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/william-l-bretschneider-1513060",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Special Counsel, Silicon Valley Law Group per profile biography; firm + San Jose address in Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "Glenn Eric Gold",
+  "firm_name": "",
+  "website": "",
+  "state": "Florida",
+  "city": "",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/glenn-eric-gold-520874",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "EXCLUDED: conflicting firm/location evidence - biography says co-founder of 'The Idea Attorneys' HQ Ft Lauderdale FL, Professional Experience says Glenn E Gold P.A., NY listing card and Contact show a New York office only"
+ },
+ {
+  "lawyer_name": "James Gulseth",
+  "firm_name": "JGPC Business Law",
+  "website": "http://www.jgpc.com/",
+  "state": "California",
+  "city": "Pleasanton",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/james-gulseth-190937",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Firm + Pleasanton address in profile Contact & Map (full name JGPC Business & Corporate Law in Professional Experience)"
+ },
+ {
+  "lawyer_name": "Rabeh M. A. Soofi",
+  "firm_name": "Axis Legal Counsel",
+  "website": "https://axislc.com/",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/rabeh-m-a-soofi-1484887",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+  "note": "Founder/managing attorney; firm + Los Angeles address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Daniel H. Erskine",
+  "firm_name": "",
+  "website": "",
+  "state": "New York",
+  "city": "New Rochelle",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/daniel-h-erskine-1486151",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+  "note": "EXCLUDED: profile states he now operates a solo practice (Daniel H Erskine, Attorney & Solicitor) - no law firm"
+ },
+ {
+  "lawyer_name": "B. F. Godfrey",
+  "firm_name": "Godfrey Legal",
+  "website": "https://www.godfreylegal.com/",
+  "state": "Florida",
+  "city": "Orlando",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/b-f-godfrey-1502561",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+  "note": "Owner of Godfrey Legal per profile biography; firm + first (Orlando) address in Contact & Map; Of Counsel role at Bogin, Munns & Munns not used"
+ },
+ {
+  "lawyer_name": "Kevin Mark Jones",
+  "firm_name": "Law Offices of Kevin M. Jones & Associates, LLC",
+  "website": "http://www.kmjoneslaw.com/",
+  "state": "Texas",
+  "city": "Cypress",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/kevin-mark-jones-1499875",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "Firm per profile Professional Experience; Cypress addresses in Contact & Map"
+ },
+ {
+  "lawyer_name": "Jeff Williams",
+  "firm_name": "",
+  "website": "",
+  "state": "Texas",
+  "city": "Arlington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jeff-williams-1506029",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "EXCLUDED: Contact & Map headed only 'Patent Attorney'/'Intellectual Property Attorney'/'Satelite Office' - no law firm identifiable"
+ },
+ {
+  "lawyer_name": "Patrick Stellitano",
+  "firm_name": "Christopher & Weisberg, PA",
+  "website": "https://cwiplaw.com/patrick-stellitano/",
+  "state": "Texas",
+  "city": "Austin",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/patrick-stellitano-307850",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "Patent Attorney at Christopher & Weisberg PA per profile Professional Experience; Austin TX address in Contact & Map; directory-listed firm profile URL used"
+ },
+ {
+  "lawyer_name": "Steven Howard Roth",
+  "firm_name": "Roth Firm, LLC",
+  "website": "https://www.rothfirmlaw.com/",
+  "state": "Ohio",
+  "city": "Cleveland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-howard-roth-1665467",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio",
+  "note": "Firm + Cleveland address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "David John Dawsey",
+  "firm_name": "Dawsey Co. LPA",
+  "website": "https://www.invention-protection.com/",
+  "state": "Ohio",
+  "city": "Columbus",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/david-john-dawsey-438947",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio",
+  "note": "Contact & Map headed 'Dawsey IP (Dawsey Co. LPA)', Columbus; websites label 'Dawsey IP'"
+ },
+ {
+  "lawyer_name": "Robert J. Foster",
+  "firm_name": "Reger Rizzo & Darnall LLP",
+  "website": "http://www.regerlaw.com/",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/robert-j-foster-47613",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania",
+  "note": "Partner, Reger Rizzo & Darnall LLP per profile Professional Experience; Philadelphia address in Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "Austin White",
+  "firm_name": "McCormick Law Firm",
+  "website": "http://www.mcclaw.com/",
+  "state": "Pennsylvania",
+  "city": "Williamsport",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/austin-white-1500863",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania",
+  "note": "Partner & Head of Intellectual Property at McCormick Law Firm per profile biography; Williamsport address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Adam Philipp",
+  "firm_name": "AEON Law",
+  "website": "https://aeonlaw.com/",
+  "state": "Washington",
+  "city": "Seattle",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/adam-philipp-593425",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington",
+  "note": "Firm + Seattle address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Walker Weitzel",
+  "firm_name": "Alloy Patent Law",
+  "website": "https://alloypatentlaw.com/",
+  "state": "Washington",
+  "city": "Seattle",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/walker-weitzel-1522539",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington",
+  "note": "Firm + Seattle address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Darrin A. Auito",
+  "firm_name": "HEA Law, PLLC",
+  "website": "http://www.hea-ip.com/",
+  "state": "Virginia",
+  "city": "McLean",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/darrin-a-auito-717207",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia",
+  "note": "Firm in profile Contact & Map; McLean VA address used to match VA listing card (Detroit MI address also shown); biography mentions newer Auito IP Law PLLC but Contact/Website still HEA Law"
+ },
+ {
+  "lawyer_name": "Derek Allen Colvin",
+  "firm_name": "Waldrop & Colvin",
+  "website": "https://thelawdept.com/",
+  "state": "Virginia",
+  "city": "Virginia Beach",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/derek-allen-colvin-1668611",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia",
+  "note": "Firm + first (Virginia Beach) address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Aaron S. Ferreira",
+  "firm_name": "Acker + Associates P.C.",
+  "website": "http://ackerlaw.com/",
+  "state": "Oregon",
+  "city": "Portland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/aaron-s-ferreira-1501846",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "Firm + Portland address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Vincent Sliwoski",
+  "firm_name": "Harris Sliwoski LLP",
+  "website": "https://harris-sliwoski.com/",
+  "state": "Oregon",
+  "city": "Portland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/vincent-sliwoski-1589891",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "Managing partner of Harris Sliwoski per profile biography; firm name per Websites & Blogs label; Portland address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Joel Skinner",
+  "firm_name": "Skinner and Associates",
+  "website": "https://www.skinnerlaw.com/",
+  "state": "Wisconsin",
+  "city": "Hudson",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/joel-skinner-859300",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wisconsin",
+  "note": "Member, Skinner and Associates per profile Professional Experience; Hudson address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Thomas Arnon Allen",
+  "firm_name": "Geier Homar & Roy, LLP",
+  "website": "http://www.wislaw.net/",
+  "state": "Wisconsin",
+  "city": "Madison",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-arnon-allen-859445",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wisconsin",
+  "note": "Firm named in profile Websites & Blogs label (Geier Homar & Roy LLP); first (Madison Office) address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Daniel Walker Cole",
+  "firm_name": "Chambliss, Bahner & Stophel, P.C.",
+  "website": "https://www.chamblisslaw.com/",
+  "state": "Tennessee",
+  "city": "Chattanooga",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/daniel-walker-cole-1522321",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Firm + Chattanooga address in profile Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "Seamus Kelly",
+  "firm_name": "Music City Law, PLLC",
+  "website": "https://www.musiccityfirm.com/",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/seamus-kelly-1560957",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Co-founding partner of Music City Law PLLC per profile biography/Professional Experience; Nashville card on TN listing"
+ },
+ {
+  "lawyer_name": "Michael Hoppe",
+  "firm_name": "Parr Brown Gee & Loveless",
+  "website": "https://parrbrown.com/attorneys/michael-t-hoppe/",
+  "state": "Utah",
+  "city": "Salt Lake City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-hoppe-991386",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah",
+  "note": "Firm + Salt Lake City address in profile Contact & Map; directory-listed firm profile URL used"
+ },
+ {
+  "lawyer_name": "Steven R. Sumsion",
+  "firm_name": "Sumsion Business Law, LLC",
+  "website": "https://www.businesslawutah.com/",
+  "state": "Utah",
+  "city": "Provo",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-r-sumsion-992217",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah",
+  "note": "Firm + Provo address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Guy Dabbs",
+  "firm_name": "Barnwell Whaley",
+  "website": "https://barnwell-whaley.com/attorneys/guy-dabbs/",
+  "state": "South Carolina",
+  "city": "Charleston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/guy-dabbs-1521868",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-carolina",
+  "note": "Profile biography directs to firm website barnwell-whaley.com for full bio; directory-listed firm profile URL; Charleston address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Matthew Neill Davis",
+  "firm_name": "Davis Business Law",
+  "website": "https://www.davisbusinesslaw.com/",
+  "state": "Oklahoma",
+  "city": "Yukon",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/matthew-neill-davis-1587360",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma",
+  "note": "Firm + first (Yukon OK) address in profile Contact & Map; other offices ignored"
+ },
+ {
+  "lawyer_name": "Jonathan Udoka",
+  "firm_name": "Udoka Law",
+  "website": "http://www.davisudoka.com/",
+  "state": "Oklahoma",
+  "city": "Stillwater",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jonathan-udoka-1496329",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma",
+  "note": "Firm + Stillwater address in profile Contact & Map; directory-listed website URL used as listed"
+ },
+ {
+  "lawyer_name": "Jonathan David Bick",
+  "firm_name": "Brach Eichler LLC",
+  "website": "https://www.bracheichler.com/",
+  "state": "New Jersey",
+  "city": "Roseland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jonathan-david-bick-1160797",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Counsel, Brach Eichler LLC per profile Professional Experience; Roseland address in Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "Monique White",
+  "firm_name": "Shekinah Legal LLC",
+  "website": "https://www.shekinahlegal.com/",
+  "state": "New Jersey",
+  "city": "Cherry Hill",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/monique-white-1674832",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Firm + Cherry Hill address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Brandon Craig Trego",
+  "firm_name": "Trego, Hines & Ladenheim, PLLC",
+  "website": "https://thlip.com/",
+  "state": "North Carolina",
+  "city": "Huntersville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/brandon-craig-trego-875274",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
+  "note": "Partner, Trego Hines & Ladenheim PLLC per profile Professional Experience; Huntersville address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Eva Clement",
+  "firm_name": "Clement Law Firm, PLLC",
+  "website": "https://www.eclementlaw.com/",
+  "state": "North Carolina",
+  "city": "Asheville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/eva-clement-1494088",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
+  "note": "Firm named in profile blog label 'Clement Law Firm, PLLC'; Asheville address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Richardo Brown-Whitt",
+  "firm_name": "BrownWhitt Law",
+  "website": "https://brownwhittlaw.com/",
+  "state": "Pennsylvania",
+  "city": "Pittsburgh",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/richardo-brown-whitt-1820386",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania",
+  "note": "Firm + Pittsburgh address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Robert L Wagner",
+  "firm_name": "Buchanan Ingersoll & Rooney PC",
+  "website": "http://www.bipc.com/",
+  "state": "Pennsylvania",
+  "city": "Pittsburgh",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/robert-l-wagner-1495273",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania",
+  "note": "Firm + Pittsburgh address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "F. Fraser Mendel",
+  "firm_name": "Mendel Owens PS",
+  "website": "http://www.mendelowens.com/",
+  "state": "Washington",
+  "city": "Seattle",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/f-fraser-mendel-832113",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington",
+  "note": "Partner, Mendel Owens PS per profile biography; Seattle card on WA listing"
+ },
+ {
+  "lawyer_name": "Ammon John Ford",
+  "firm_name": "Gleam Law, PLLC",
+  "website": "https://www.gleamlaw.com/",
+  "state": "Washington",
+  "city": "Seattle",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ammon-john-ford-1661815",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington",
+  "note": "Firm + Seattle address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Andrew P. Connors",
+  "firm_name": "Darkhorse Attorneys",
+  "website": "https://www.darkhorse.law/",
+  "state": "Virginia",
+  "city": "Roanoke",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/andrew-p-connors-1505160",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia",
+  "note": "Firm + first (Roanoke) address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "James D. Williams",
+  "firm_name": "Tingen Law, PLLC",
+  "website": "https://www.tingen.law/attorneys/james-williams/",
+  "state": "Virginia",
+  "city": "Richmond",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/james-d-williams-1590157",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia",
+  "note": "Attorney at Tingen Law PLLC per profile biography/Professional Experience; Richmond card on VA listing; directory-listed firm profile URL used"
+ },
+ {
+  "lawyer_name": "Karen Dana Oster",
+  "firm_name": "GREEN, HOWARD, & MUGHAL LLP",
+  "website": "http://www.oregonpatent.com/",
+  "state": "Oregon",
+  "city": "Lake Oswego",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/karen-dana-oster-54523",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "Firm named in profile Contact & Map (Lake Oswego); directory-listed website (oregonpatent.com) used as listed; earlier unheaded Lake Oswego address also shown"
+ },
+ {
+  "lawyer_name": "William Nelson",
+  "firm_name": "",
+  "website": "",
+  "state": "Oregon",
+  "city": "Portland",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/william-nelson-1506656",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon",
+  "note": "EXCLUDED: Sierra IP Law PC shows many offices (first San Mateo CA; Portland OR is one of several) and lawyer is California-admitted only - primary office/state cannot be reliably established from OR listing"
+ },
+ {
+  "lawyer_name": "Lydie A. Hudson",
+  "firm_name": "",
+  "website": "",
+  "state": "Wisconsin",
+  "city": "Madison",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/lydie-a-hudson-858912",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wisconsin",
+  "note": "EXCLUDED: no firm named anywhere in profile; Contact & Map is an unheaded Madison address with personal website lhudsonlaw.com - individual lawyer only"
+ },
+ {
+  "lawyer_name": "Michael Johnson",
+  "firm_name": "Johnson Evans & Headrick, P.C.",
+  "website": "https://johnsonevans.law/",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-johnson-1884877",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Firm + Nashville address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Thomas Kulaga",
+  "firm_name": "Kulaga Law Office, PLLC",
+  "website": "http://www.knoxpatents.com/",
+  "state": "Tennessee",
+  "city": "Knoxville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-kulaga-983895",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee",
+  "note": "Firm named in profile Websites & Blogs label 'Knox Patents: Kulaga Law Office, PLLC'; Knoxville address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Scott Gordon",
+  "firm_name": "Gordon Business Law",
+  "website": "https://www.gordonbusinesslaw.com/",
+  "state": "Utah",
+  "city": "Salt Lake City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/scott-gordon-992354",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah",
+  "note": "Firm named in profile Websites & Blogs label; Salt Lake City addresses in Contact & Map"
+ },
+ {
+  "lawyer_name": "Brent Burningham",
+  "firm_name": "Burningham Business Law",
+  "website": "http://www.burninghamlaw.com/",
+  "state": "Utah",
+  "city": "Farmington",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/brent-burningham-996111",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah",
+  "note": "Founder, Burningham Business Law per profile Professional Experience; Farmington (Davis County) address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Adam Blaier",
+  "firm_name": "Brown & Blaier, PC",
+  "website": "https://www.brownandblaier.com/",
+  "state": "New Jersey",
+  "city": "Marlboro",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/adam-blaier-1560781",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Firm + Marlboro address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Richard Gearhart",
+  "firm_name": "Gearhart Law, LLC",
+  "website": "https://gearhartlaw.com/",
+  "state": "New Jersey",
+  "city": "Summit",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/richard-gearhart-1337920",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+  "note": "Founding Partner of Gearhart Law LLC in Summit NJ per profile biography; Contact & Map headed 'Gearhart Law'"
+ },
+ {
+  "lawyer_name": "Ken Sterling",
+  "firm_name": "Sterling Media Law",
+  "website": "https://www.sterlingmedialaw.com/",
+  "state": "California",
+  "city": "Century City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ken-sterling-1673039",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Firm + first (Century City) address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Milord A. Keshishian",
+  "firm_name": "Milord Law Group, PC",
+  "website": "https://www.milordlaw.com/",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/milord-a-keshishian-74293",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Firm + Los Angeles address in profile Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "James Henry Dunne",
+  "firm_name": "Law Offices of James Henry Dunne, Esq.",
+  "website": "https://www.jhdunnelaw.com/",
+  "state": "New York",
+  "city": "Melville",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/james-henry-dunne-1666909",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Firm + first (Melville) address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Richard P Corey",
+  "firm_name": "The Law Offices of Richard Corey, PLLC",
+  "website": "https://www.rcenterpriselaw.com/",
+  "state": "Florida",
+  "city": "Fort Lauderdale",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/richard-p-corey-1822684",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+  "note": "Owner/President of The Law Offices of Richard Corey PLLC per profile biography/Professional Experience; Fort Lauderdale address in Contact & Map (headed Richard Corey Enterprise Law)"
+ },
+ {
+  "lawyer_name": "Rosa Maria Villa",
+  "firm_name": "Villa Law, PLLC",
+  "website": "https://villalawpllc.com/",
+  "state": "Florida",
+  "city": "Coral Gables",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/rosa-maria-villa-1821608",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+  "note": "Managing Partner of Villa Law PLLC, based in Coral Gables, per profile biography; Coral Gables card on FL listing"
+ },
+ {
+  "lawyer_name": "Temitope Oluwatoyin Siyanbade",
+  "firm_name": "The Law Office of Temi Siyanbade",
+  "website": "https://www.toslegal.com/",
+  "state": "Texas",
+  "city": "Houston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/temitope-oluwatoyin-siyanbade-1582156",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "Firm + Houston address in profile Contact & Map"
+ },
+ {
+  "lawyer_name": "Allen Gardner",
+  "firm_name": "Allen Gardner Law, PLLC",
+  "website": "https://www.allengardnerlaw.com/",
+  "state": "Texas",
+  "city": "Tyler",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/allen-gardner-239496",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "Firm + Tyler address in profile Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "Darin Michael Klemchuk",
+  "firm_name": "Klemchuk LLP",
+  "website": "https://www.klemchuk.com/blog",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/darin-michael-klemchuk-251084",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+  "note": "Founding Partner, Klemchuk LLP per profile Professional Experience; Dallas card on TX listing; directory-listed firm blog URL used as listed"
+ },
+ {
+  "lawyer_name": "James Cai",
+  "firm_name": "SAC Attorneys LLP",
+  "website": "https://www.sacattorneys.com/james-cai.html",
+  "state": "California",
+  "city": "San Jose",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/james-cai-1514031",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Founded SAC Attorneys LLP per profile biography; San Jose card on CA listing; directory-listed profile-page URL used"
+ },
+ {
+  "lawyer_name": "Michael S. LeBoff",
+  "firm_name": "Klein & Wilson",
+  "website": "https://www.kleinandwilson.com/",
+  "state": "California",
+  "city": "Newport Beach",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/michael-s-leboff-108960",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Partner at Klein & Wilson per profile biography; Newport Beach card on CA listing"
+ },
+ {
+  "lawyer_name": "Jeremy Lester Olsan",
+  "firm_name": "Olsan Law, Inc.",
+  "website": "https://www.olsanlaw.com/",
+  "state": "California",
+  "city": "Santa Rosa",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/jeremy-lester-olsan-10539",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Principal of Olsan Law Inc. per profile biography/Professional Experience; Santa Rosa card on CA listing"
+ },
+ {
+  "lawyer_name": "Neil P. Flynn",
+  "firm_name": "Horn Wright, LLP",
+  "website": "https://hornwright.com/",
+  "state": "New York",
+  "city": "Garden City",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/neil-p-flynn-1239554",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Senior Litigation Counsel at Horn Wright LLP per profile Professional Experience; Garden City card on NY listing"
+ },
+ {
+  "lawyer_name": "Elena Gurevich",
+  "firm_name": "EG Legal Services",
+  "website": "https://www.eglegalservices.com/",
+  "state": "New York",
+  "city": "Brooklyn",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/elena-gurevich-1670251",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Practice name EG Legal Services given in profile Websites & Blogs; Brooklyn address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Francine Elizabeth Love",
+  "firm_name": "LOVE LAW FIRM, PLLC",
+  "website": "https://www.lovelawfirmpllc.com/",
+  "state": "New York",
+  "city": "Uniondale",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/francine-elizabeth-love-1209667",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Founder & Managing Attorney per profile Professional Experience; Uniondale address (first) in Contact & Map"
+ },
+ {
+  "lawyer_name": "Dayrel Sewell",
+  "firm_name": "LAW FIRM OF DAYREL SEWELL, PLLC",
+  "website": "http://www.sewellnylaw.com/",
+  "state": "New York",
+  "city": "Brooklyn",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/dayrel-sewell-1320668",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Principal of the firm per profile Professional Experience; Brooklyn card on NY listing"
+ },
+ {
+  "lawyer_name": "Griffin Klema",
+  "firm_name": "Klema Law, P.L.",
+  "website": "http://klemalaw.com/",
+  "state": "Florida",
+  "city": "Tampa",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/griffin-klema-1522127",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+  "note": "Shareholder, Klema Law P.L. per profile Professional Experience; Tampa card on FL listing"
+ },
+ {
+  "lawyer_name": "Ruth Ryan-Cruz",
+  "firm_name": "Ryan-Cruz Law, APC",
+  "website": "http://www.ryancruzlaw.com/",
+  "state": "California",
+  "city": "San Diego",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ruth-ryan-cruz-1494032",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Attorney with Ryan-Cruz Law APC in San Diego per profile biography/Professional Experience; San Diego card on CA listing"
+ },
+ {
+  "lawyer_name": "Christopher Michael Santomassimo",
+  "firm_name": "Nicoll Davis & Spinella LLP",
+  "website": "https://www.ogcsolutions.com/",
+  "state": "New Jersey",
+  "city": "Paramus",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/christopher-michael-santomassimo-1215219",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Partner, Nicoll Davis & Spinella LLP per profile Professional Experience; Websites label names that firm; profile Contact lists New Jersey (Paramus) office first, then New York office - NJ recorded as primary"
+ },
+ {
+  "lawyer_name": "Ekaterina Mouratova",
+  "firm_name": "The Law Firm of Ekaterina Mouratova, PLLC",
+  "website": "http://www.mouratovalawfirm.com/",
+  "state": "New York",
+  "city": "New York",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ekaterina-mouratova-1494316",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+  "note": "Founder/principal per profile biography; firm headquartered in New York City; 222 Broadway NY address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Joel Benjamin Rothman",
+  "firm_name": "SRIPLAW",
+  "website": "http://www.sriplaw.com/",
+  "state": "Florida",
+  "city": "Boca Raton",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/joel-benjamin-rothman-507664",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+  "note": "Partner, SRIPLAW per profile biography; firm + Boca Raton address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Erica DiAngelo Allen",
+  "firm_name": "DiAngelo Law",
+  "website": "https://www.diangelolaw.com/",
+  "state": "Florida",
+  "city": "Tampa",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/erica-diangelo-allen-1813473",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+  "note": "Founding Attorney per profile Professional Experience; firm + Tampa address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Stephen L. Sapp",
+  "firm_name": "Schiff Hardin LLP",
+  "website": "http://www.schiffhardin.com/attorneys/attorney-search/sapp-stephen-l",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/stephen-l-sapp-1459547",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Partner per profile Professional Experience; firm + Dallas address in Contact & Map; directory-listed firm biography URL used"
+ },
+ {
+  "lawyer_name": "John Thomas Wilson",
+  "firm_name": "Wilson Legal Group P.C.",
+  "website": "https://www.wilsonlegalgroup.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-thomas-wilson-231979",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Owner of Wilson Legal Group P.C. (dba Wilson Whitaker Rynell) per profile biography; firm + Dallas address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Craige Thompson",
+  "firm_name": "Thompson Patent Law",
+  "website": "https://www.thompsonpatentlaw.com/",
+  "state": "Texas",
+  "city": "Cedar Park",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/craige-thompson-1666026",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Firm named in profile Websites & Blogs; firm + Cedar Park address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Pankaj S Raval",
+  "firm_name": "Carbon Law Group",
+  "website": "https://carbonlg.com/",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/pankaj-s-raval-1491445",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Founder, Carbon Law Group per profile Professional Experience; firm + first (Los Angeles) address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Lynne M.J. Boisineau",
+  "firm_name": "Boisineau Law",
+  "website": "https://www.boisineaulaw.com/",
+  "state": "California",
+  "city": "Westminster",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/lynne-m-j-boisineau-53396",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Owner, Boisineau Law per profile Professional Experience; Websites label 'Boisineau Law website'; Westminster address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Olivia Finlayson",
+  "firm_name": "Structure Law Group, LLP",
+  "website": "https://www.structurelaw.com/",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/olivia-finlayson-1812830",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+  "note": "Attorney at Structure Law Group LLP per profile biography; firm + Los Angeles Office address in Contact & Map; firm root URL listed in Websites & Blogs"
+ },
+ {
+  "lawyer_name": "John Martin Taboada",
+  "firm_name": "Taboada Law Firm, PLLC",
+  "website": "http://www.taboadalawfirm.com/",
+  "state": "Texas",
+  "city": "San Antonio",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/john-martin-taboada-228975",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Managing Member, Taboada Law Firm PLLC per profile Professional Experience; San Antonio address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Vikesh Patel",
+  "firm_name": "Kearney, McWilliams & Davis, PLLC",
+  "website": "https://kmd.law/",
+  "state": "Texas",
+  "city": "Houston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/vikesh-patel-1816931",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Attorney at Kearney, McWilliams & Davis PLLC per profile Professional Experience; firm + first (Houston) address in Contact & Map (further TX/CO/WY offices listed after)"
+ },
+ {
+  "lawyer_name": "Ann Massey Badmus",
+  "firm_name": "Badmus & Associates",
+  "website": "https://www.badmuslaw.com/",
+  "state": "Texas",
+  "city": "Dallas",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/ann-massey-badmus-312103",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Firm named in profile Websites & Blogs label; firm + Dallas address in Contact & Map"
+ },
+ {
+  "lawyer_name": "Joseph Tan Tung",
+  "firm_name": "Tung Law Firm, PLLC",
+  "website": "http://www.tunglawfirm.com/",
+  "state": "Texas",
+  "city": "Houston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/joseph-tan-tung-313331",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Tung Law Firm PLLC per profile biography; firm + Houston address in Contact & Map (Sugar Land card on TX listing; profile address is Houston)"
+ },
+ {
+  "lawyer_name": "McKenna Harper",
+  "firm_name": "Lubel Voyles LLP",
+  "website": "https://www.lubelvoyles.com/",
+  "state": "Texas",
+  "city": "Houston",
+  "profile_url": "https://lawyers.law.cornell.edu/lawyer/mckenna-harper-209713",
+  "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+  "note": "Lubel Voyles LLP per profile Professional Experience; firm + Principal Office (Houston) address in Contact & Map; firm root URL listed in Websites & Blogs"
+ }
+]

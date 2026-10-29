@@ -1,0 +1,822 @@
+{
+  "Alabama": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Birmingham",
+      "Huntsville"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/alabama"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Alaska": {
+    "status": "failed_or_inaccessible",
+    "records_collected": 1,
+    "firm_bearing_records": 0,
+    "cities_seen": [
+      "Anchorage"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/alaska"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "Listings processed; only solo / in-house lawyers found, no identifiable law firm (excluded per rules)",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Arizona": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Phoenix"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arizona"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Arkansas": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Fayetteville",
+      "Little Rock"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/arkansas"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "California": {
+    "status": "in_progress",
+    "records_collected": 25,
+    "firm_bearing_records": 23,
+    "cities_seen": [
+      "Beverly Hills",
+      "Century City",
+      "Irvine",
+      "Larkspur",
+      "Los Angeles",
+      "Monterey",
+      "Newport Beach",
+      "Pleasanton",
+      "San Diego",
+      "San Francisco",
+      "San Jose",
+      "Santa Clara",
+      "Santa Rosa",
+      "Westminster"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=2",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3"
+    ],
+    "listing_pages_processed_count": 3,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Colorado": {
+    "status": "in_progress",
+    "records_collected": 3,
+    "firm_bearing_records": 3,
+    "cities_seen": [
+      "Erie",
+      "Greenwood Village",
+      "Louisville"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/colorado"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Connecticut": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Shelton"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/connecticut"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Delaware": {
+    "status": "in_progress",
+    "records_collected": 5,
+    "firm_bearing_records": 3,
+    "cities_seen": [
+      "Wilmington"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/delaware"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Florida": {
+    "status": "in_progress",
+    "records_collected": 23,
+    "firm_bearing_records": 22,
+    "cities_seen": [
+      "Boca Raton",
+      "Coral Gables",
+      "Coral Springs",
+      "Fort Lauderdale",
+      "Gainesville",
+      "Jacksonville",
+      "Miami",
+      "Naples",
+      "Oldsmar",
+      "Orlando",
+      "Palm Beach Gardens",
+      "Panama City",
+      "Tampa",
+      "West Palm Beach"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=2",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/florida?page=3",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2"
+    ],
+    "listing_pages_processed_count": 5,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Georgia": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Atlanta"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/georgia"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Hawaii": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Honolulu"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/hawaii"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Idaho": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Boise"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/idaho"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Illinois": {
+    "status": "in_progress",
+    "records_collected": 4,
+    "firm_bearing_records": 4,
+    "cities_seen": [
+      "Chicago"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/illinois",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/illinois?page=2"
+    ],
+    "listing_pages_processed_count": 2,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Indiana": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Fort Wayne",
+      "Indianapolis"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/indiana"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Iowa": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Des Moines"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/iowa"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Kansas": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Wichita"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kansas"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Kentucky": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Paducah"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/kentucky"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Louisiana": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "New Orleans",
+      "Shreveport"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/louisiana",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-hampshire"
+    ],
+    "listing_pages_processed_count": 2,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Maine": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Waldoboro"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maine"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Maryland": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Baltimore",
+      "Potomac"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/maryland"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Massachusetts": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Boston",
+      "North Andover"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/massachusetts"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Michigan": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Royal Oak",
+      "Traverse City"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/michigan"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Minnesota": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Minneapolis",
+      "Saint Paul"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/minnesota"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Mississippi": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Gulfport"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/mississippi"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Missouri": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Clayton"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/missouri"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Montana": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Great Falls"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/montana"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Nebraska": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Lincoln",
+      "Omaha"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nebraska"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Nevada": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Las Vegas"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/nevada"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "New Hampshire": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Manchester"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-hampshire"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "New Jersey": {
+    "status": "in_progress",
+    "records_collected": 8,
+    "firm_bearing_records": 8,
+    "cities_seen": [
+      "Cherry Hill",
+      "Edison",
+      "Maplewood",
+      "Marlboro",
+      "New Brunswick",
+      "Paramus",
+      "Roseland",
+      "Summit"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3"
+    ],
+    "listing_pages_processed_count": 3,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "New Mexico": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Albuquerque"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-mexico"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "New York": {
+    "status": "in_progress",
+    "records_collected": 19,
+    "firm_bearing_records": 17,
+    "cities_seen": [
+      "Albany",
+      "Brooklyn",
+      "Buffalo",
+      "Garden City",
+      "Melville",
+      "New Rochelle",
+      "New York",
+      "New York City",
+      "Uniondale",
+      "West Harrison",
+      "White Plains"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=3",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2"
+    ],
+    "listing_pages_processed_count": 4,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "North Carolina": {
+    "status": "in_progress",
+    "records_collected": 7,
+    "firm_bearing_records": 7,
+    "cities_seen": [
+      "Asheville",
+      "Charlotte",
+      "Huntersville",
+      "Raleigh",
+      "Wilmington"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/north-carolina?page=2"
+    ],
+    "listing_pages_processed_count": 2,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "North Dakota": {
+    "status": "no_relevant_listings_found",
+    "records_collected": 0,
+    "firm_bearing_records": 0,
+    "cities_seen": [],
+    "listing_pages_processed": [],
+    "listing_pages_processed_count": 0,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Ohio": {
+    "status": "in_progress",
+    "records_collected": 5,
+    "firm_bearing_records": 5,
+    "cities_seen": [
+      "Cleveland",
+      "Columbus",
+      "Medina",
+      "Mount Vernon"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Oklahoma": {
+    "status": "in_progress",
+    "records_collected": 4,
+    "firm_bearing_records": 4,
+    "cities_seen": [
+      "Edmond",
+      "Stillwater",
+      "Yukon"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oklahoma"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Oregon": {
+    "status": "in_progress",
+    "records_collected": 6,
+    "firm_bearing_records": 5,
+    "cities_seen": [
+      "Bend",
+      "Lake Oswego",
+      "Portland"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/oregon"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Pennsylvania": {
+    "status": "in_progress",
+    "records_collected": 6,
+    "firm_bearing_records": 6,
+    "cities_seen": [
+      "Lemoyne",
+      "Philadelphia",
+      "Pittsburgh",
+      "Williamsport"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-jersey",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/pennsylvania"
+    ],
+    "listing_pages_processed_count": 2,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Rhode Island": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Johnston",
+      "Providence"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/rhode-island"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "South Carolina": {
+    "status": "in_progress",
+    "records_collected": 2,
+    "firm_bearing_records": 2,
+    "cities_seen": [
+      "Charleston"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-carolina"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "South Dakota": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Sioux Falls"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/south-dakota"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Tennessee": {
+    "status": "in_progress",
+    "records_collected": 6,
+    "firm_bearing_records": 6,
+    "cities_seen": [
+      "Brentwood",
+      "Chattanooga",
+      "Knoxville",
+      "Nashville"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/tennessee"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Texas": {
+    "status": "in_progress",
+    "records_collected": 26,
+    "firm_bearing_records": 24,
+    "cities_seen": [
+      "Arlington",
+      "Austin",
+      "Cedar Park",
+      "Cypress",
+      "Dallas",
+      "Fort Worth",
+      "Houston",
+      "Midland",
+      "San Antonio",
+      "Tyler"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=2",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=3",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4"
+    ],
+    "listing_pages_processed_count": 4,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Utah": {
+    "status": "in_progress",
+    "records_collected": 5,
+    "firm_bearing_records": 5,
+    "cities_seen": [
+      "Farmington",
+      "Provo",
+      "Salt Lake City"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/utah"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Vermont": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Burlington"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/vermont"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Virginia": {
+    "status": "in_progress",
+    "records_collected": 5,
+    "firm_bearing_records": 5,
+    "cities_seen": [
+      "Leesburg",
+      "McLean",
+      "Richmond",
+      "Roanoke",
+      "Virginia Beach"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Washington": {
+    "status": "in_progress",
+    "records_collected": 5,
+    "firm_bearing_records": 5,
+    "cities_seen": [
+      "Mountlake Terrace",
+      "Seattle"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/washington"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "West Virginia": {
+    "status": "in_progress",
+    "records_collected": 1,
+    "firm_bearing_records": 1,
+    "cities_seen": [
+      "Fairmont"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/west-virginia"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Wisconsin": {
+    "status": "in_progress",
+    "records_collected": 4,
+    "firm_bearing_records": 3,
+    "cities_seen": [
+      "Hudson",
+      "Madison",
+      "Pewaukee"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wisconsin"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "Wyoming": {
+    "status": "failed_or_inaccessible",
+    "records_collected": 2,
+    "firm_bearing_records": 0,
+    "cities_seen": [
+      "Douglas",
+      "Jackson"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/wyoming"
+    ],
+    "listing_pages_processed_count": 1,
+    "note": "Listings processed; only solo / in-house lawyers found, no identifiable law firm (excluded per rules)",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  },
+  "District of Columbia": {
+    "status": "in_progress",
+    "records_collected": 3,
+    "firm_bearing_records": 3,
+    "cities_seen": [
+      "Washington"
+    ],
+    "listing_pages_processed": [
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/dc/washington-dc",
+      "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=2"
+    ],
+    "listing_pages_processed_count": 2,
+    "note": "",
+    "updated_at": "2026-10-29T04:24:34+00:00"
+  }
+}
