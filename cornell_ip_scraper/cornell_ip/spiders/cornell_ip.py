@@ -81,19 +81,54 @@ class CornellIpSpider(scrapy.Spider):
     allowed_domains = ["lawyers.law.cornell.edu"]
     custom_settings = {
         "ITEM_PIPELINES": {
+            "cornell_ip.pipelines.JsonlRawStorePipeline": 50,
             "cornell_ip.pipelines.DedupPipeline": 100,
             "cornell_ip.pipelines.ExcelWriterPipeline": 200,
         }
     }
 
     def start_requests(self):
-        for slug in STATES:
+        # Step 1: discover the state inventory from the main directory
+        # ("Find Intellectual Property Attorneys by State"), never assuming
+        # it.  If the index cannot be parsed, parse_index falls back to the
+        # known slug list so no state is skipped silently.
+        yield scrapy.Request(INDEX_URL, callback=self.parse_index,
+                             errback=self.handle_error)
+
+    def parse_index(self, response):
+        discovered = []
+        for href in response.css("a::attr(href)").getall():
+            path = href.split("#")[0].split("?")[0].rstrip("/")
+            m = re.search(r"/lawyers/intellectual-property/([a-z\-]+)$", path)
+            if m and m.group(1) in STATES and m.group(1) not in discovered:
+                discovered.append(m.group(1))
+            if path.endswith("/lawyers/intellectual-property/dc/washington-dc") \
+                    and "dc" not in discovered:
+                discovered.append("dc")
+        if not discovered:
+            self.logger.warning("No state links parsed from index; "
+                                "falling back to known state inventory")
+            discovered = list(STATES)
+        self.logger.info("Discovered %d state/DC listings on index",
+                         len(discovered))
+        for slug in discovered:
             if slug == "dc":
                 url = f"{BASE}/lawyers/intellectual-property/dc/washington-dc"
             else:
                 url = f"{BASE}/lawyers/intellectual-property/{slug}"
             yield scrapy.Request(url, callback=self.parse_listing,
+                                 errback=self.handle_error,
                                  meta={"state_slug": slug})
+
+    def handle_error(self, failure):
+        request = failure.request
+        data_dir = self.settings.get("CORNELL_DATA_DIR",
+                                     os.path.join(os.getcwd(), "data"))
+        log_error(os.path.join(data_dir, "errors.jsonl"), request.url,
+                  repr(failure.value),
+                  state=request.meta.get("state", ""),
+                  city=request.meta.get("city", ""))
+        self.logger.error("Failed %s: %s", request.url, failure.value)
 
     # -- listing pages ----------------------------------------------------
     def parse_listing(self, response):
@@ -106,18 +141,33 @@ class CornellIpSpider(scrapy.Spider):
             if _PROFILE_RE.search(path) and path not in seen_profiles:
                 seen_profiles.add(path)
                 yield response.follow(
-                    path, callback=self.parse_profile,
+                    path, callback=self.parse_profile, errback=self.handle_error,
                     meta={"state": state_name, "listing_url": response.url,
                           "website_hint": self._card_website(response, path),
                           "city_hint": self._card_city(response, path)})
+        # Discover pagination on this listing ("Next" / numbered ?page=N
+        # links) -- the first page is never assumed to contain all results.
+        for href in response.css("a::attr(href)").getall():
+            clean = href.split("#")[0]
+            if re.search(r"/lawyers/intellectual-property/[a-z\-]+"
+                         r"(?:/[a-z\-]+)?\?page=\d+$", clean):
+                yield response.follow(clean, callback=self.parse_listing,
+                                      errback=self.handle_error,
+                                      meta={"state_slug": slug,
+                                            "city": response.meta.get("city", "")})
         # Follow city sub-pages of this state once (they re-list the same
         # lawyers in smaller sets; Scrapy's dupefilter + the dedup pipeline
-        # keep the output unique, first occurrence wins).
+        # keep the output unique, first occurrence wins).  City is used for
+        # internal verification only; sponsored "Serving <city>" text is
+        # never treated as proof of a firm's location.
         for href in response.css("a::attr(href)").getall():
-            if re.search(rf"/intellectual-property/{re.escape(slug)}/[a-z\-]+$",
-                         href.split("#")[0]):
+            m = re.search(rf"/intellectual-property/{re.escape(slug)}/([a-z\-]+)$",
+                          href.split("#")[0].split("?")[0])
+            if m:
                 yield response.follow(href, callback=self.parse_listing,
-                                      meta={"state_slug": slug})
+                                      errback=self.handle_error,
+                                      meta={"state_slug": slug,
+                                            "city": m.group(1).replace("-", " ").title()})
 
     @staticmethod
     def _card_website(response, profile_path):

@@ -8,4 +8,9 @@ DOWNLOAD_DELAY = 0.5
 AUTOTHROTTLE_ENABLED = True
 RETRY_TIMES = 3
 LOG_LEVEL = "INFO"
-CORNELL_OUTPUT_XLSX = "US_IP_Law_Firms_Cornell.xlsx"
+# Final two-column workbook and resumable data store.  Run scrapy from
+# this project directory (or override with -s), and pass
+#   -s JOBDIR=data/crawljob
+# to pause/resume a crawl with Scrapy's persistent scheduler queue.
+CORNELL_DATA_DIR = "data"
+CORNELL_OUTPUT_XLSX = "output/IP_Law_Firms.xlsx"

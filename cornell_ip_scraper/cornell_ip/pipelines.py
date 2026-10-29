@@ -1,8 +1,24 @@
-"""Pipelines: deduplication (first occurrence wins) + Excel writer."""
+"""Pipelines: incremental JSONL raw store (resumable), global
+deduplication (first occurrence wins) + final two-column Excel writer."""
 import os
 
 from cornell_ip.dedup import deduplicate
-from cornell_ip.excel import build_workbook
+from cornell_ip.excel import build_firm_workbook
+from cornell_ip.store import append_jsonl
+
+
+def _data_dir(spider):
+    return spider.settings.get("CORNELL_DATA_DIR", os.path.join(os.getcwd(), "data"))
+
+
+class JsonlRawStorePipeline:
+    """Append every harvested record to data/raw_records.jsonl as it is
+    scraped, so an interrupted crawl loses nothing and can resume."""
+
+    def process_item(self, item, spider):
+        append_jsonl(os.path.join(_data_dir(spider), "raw_records.jsonl"),
+                     dict(item))
+        return item
 
 
 class DedupPipeline:
@@ -24,15 +40,20 @@ class DedupPipeline:
         spider.crawler.stats.set_value("cornell/raw_records", len(self.records))
         spider.crawler.stats.set_value("cornell/duplicates_removed", len(dupes))
         spider.crawler.stats.set_value("cornell/unique_firms", len(unique))
-        # Hand the unique list to the Excel pipeline via the spider object.
+        # Records already persisted incrementally by JsonlRawStorePipeline;
+        # hand the unique list to the Excel pipeline via the spider object.
         spider._unique_firms = unique
 
 
 class ExcelWriterPipeline:
+    """Write the final workbook: output/IP_Law_Firms.xlsx, one sheet
+    'IP Law Firms', exactly two columns (Law Firm Name | Official
+    Website URL)."""
+
     def close_spider(self, spider):
         firms = getattr(spider, "_unique_firms", [])
         out = spider.settings.get(
             "CORNELL_OUTPUT_XLSX",
-            os.path.join(os.getcwd(), "US_IP_Law_Firms_Cornell.xlsx"))
-        build_workbook(firms, out)
+            os.path.join(os.getcwd(), "output", "IP_Law_Firms.xlsx"))
+        build_firm_workbook(firms, out)
         spider.logger.info("Wrote %s firm rows to %s", len(firms), out)

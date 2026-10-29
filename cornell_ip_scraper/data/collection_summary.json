@@ -1,10 +1,15 @@
 {
-  "raw_records_collected": 205,
-  "raw_firm_bearing_records": 190,
-  "duplicate_records_removed": 4,
-  "unique_firms_remaining": 186,
-  "states_covered": 48,
-  "states_list": [
+  "raw_records_collected": 219,
+  "raw_firm_bearing_records": 204,
+  "excluded_no_identifiable_firm": 15,
+  "duplicate_records_removed": 6,
+  "unique_firms_remaining": 198,
+  "firms_with_verified_website": 197,
+  "firms_with_blank_website": 1,
+  "states_discovered": 51,
+  "states_with_unique_firms": 48,
+  "states_completed": [],
+  "states_in_progress": [
     "Alabama",
     "Arizona",
     "Arkansas",
@@ -54,9 +59,15 @@
     "West Virginia",
     "Wisconsin"
   ],
-  "firms_with_website": 185,
-  "firms_without_website_blank_cell": 1,
-  "output": "/home/user/scrapy/US_IP_Law_Firms_Cornell.xlsx",
+  "states_no_relevant_listings": [
+    "North Dakota"
+  ],
+  "states_failed_or_inaccessible": [
+    "Alaska",
+    "Wyoming"
+  ],
+  "cities_processed": 141,
+  "output": "/home/user/scrapy/cornell_ip_scraper/output/IP_Law_Firms.xlsx",
   "duplicates": [
     {
       "lawyer_name": "Josh Gerben",
@@ -101,6 +112,28 @@
       "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
       "note": "Firm named in profile Websites & Blogs; firm + Cedar Park address in Contact & Map",
       "_duplicate_of_firm": "Thompson Patent Law"
+    },
+    {
+      "lawyer_name": "Olivia Finlayson",
+      "firm_name": "Structure Law Group, LLP",
+      "website": "https://www.structurelaw.com/",
+      "state": "California",
+      "city": "Los Angeles",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/olivia-finlayson-1812830",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/california?page=3",
+      "note": "Attorney at Structure Law Group LLP per profile biography; firm + Los Angeles Office address in Contact & Map; firm root URL listed in Websites & Blogs",
+      "_duplicate_of_firm": "Structure Law Group, LLP"
+    },
+    {
+      "lawyer_name": "Vikesh Patel",
+      "firm_name": "Kearney, McWilliams & Davis, PLLC",
+      "website": "https://kmd.law/",
+      "state": "Texas",
+      "city": "Houston",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/vikesh-patel-1816931",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
+      "note": "Attorney at Kearney, McWilliams & Davis PLLC per profile Professional Experience; firm + first (Houston) address in Contact & Map (further TX/CO/WY offices listed after)",
+      "_duplicate_of_firm": "Kearney, McWilliams & Davis, PLLC"
     }
   ]
 }
