@@ -1,10 +1,10 @@
 {
-  "raw_records_collected": 219,
-  "raw_firm_bearing_records": 204,
-  "excluded_no_identifiable_firm": 15,
-  "duplicate_records_removed": 6,
-  "unique_firms_remaining": 198,
-  "firms_with_verified_website": 197,
+  "raw_records_collected": 251,
+  "raw_firm_bearing_records": 233,
+  "excluded_no_identifiable_firm": 18,
+  "duplicate_records_removed": 9,
+  "unique_firms_remaining": 224,
+  "firms_with_verified_website": 223,
   "firms_with_blank_website": 1,
   "states_discovered": 51,
   "states_with_unique_firms": 48,
@@ -66,7 +66,7 @@
     "Alaska",
     "Wyoming"
   ],
-  "cities_processed": 141,
+  "cities_processed": 155,
   "output": "/home/user/scrapy/cornell_ip_scraper/output/IP_Law_Firms.xlsx",
   "duplicates": [
     {
@@ -134,6 +134,39 @@
       "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/texas?page=4",
       "note": "Attorney at Kearney, McWilliams & Davis PLLC per profile Professional Experience; firm + first (Houston) address in Contact & Map (further TX/CO/WY offices listed after)",
       "_duplicate_of_firm": "Kearney, McWilliams & Davis, PLLC"
+    },
+    {
+      "lawyer_name": "Ava (Na) Li",
+      "firm_name": "Ava Li Law PLLC",
+      "website": "https://avalilaw.com/",
+      "state": "New York",
+      "city": "Albany",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/ava-na-li-1671858",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/new-york?page=4",
+      "note": "Founder of Ava Li Law PLLC per profile biography; firm + first (Albany) address in Contact & Map (Houston office listed second)",
+      "_duplicate_of_firm": "Ava Li Law PLLC"
+    },
+    {
+      "lawyer_name": "Steven Howard Roth",
+      "firm_name": "Roth Firm, LLC",
+      "website": "https://www.rothfirmlaw.com/",
+      "state": "Ohio",
+      "city": "Cleveland",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/steven-howard-roth-1665467",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/ohio?page=2",
+      "note": "Firm + Cleveland address in profile Contact & Map",
+      "_duplicate_of_firm": "Roth Firm, LLC"
+    },
+    {
+      "lawyer_name": "Thomas M. Dunlap",
+      "firm_name": "Dunlap Bennett & Ludwig",
+      "website": "https://www.dbllawyers.com/",
+      "state": "Virginia",
+      "city": "Leesburg",
+      "profile_url": "https://lawyers.law.cornell.edu/lawyer/thomas-m-dunlap-772686",
+      "listing_url": "https://lawyers.law.cornell.edu/lawyers/intellectual-property/virginia?page=2",
+      "note": "Founding partner at Dunlap Bennett & Ludwig per profile biography; Leesburg card on VA listing",
+      "_duplicate_of_firm": "Dunlap Bennett & Ludwig PLLC"
     }
   ]
 }
