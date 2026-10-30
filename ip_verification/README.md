@@ -208,3 +208,20 @@ Batch 2 (Rows 51–110) was appended to the Google Sheet
   (same 24 headers). `Sheet1` summary metrics were left unchanged (still 50-row
   counts describing the pre-existing Batch 1 dataset in that workbook).
 - Mapping/payload generation is reproducible via `gs_payload_builder.py`.
+
+### Subsequent owner-only Google Sheet and cleanup (2026-10-30)
+
+After the sync above, at the user's explicit request, owner-level fields for
+Rows 1-110 were first copied to a new simple Google Sheet, **"Owner Name & Email
+-- IP Firms (110)"**
+(https://docs.google.com/spreadsheets/d/1d1H49pzXQhNW8dFg89PeINfbO5Evhd_6i7jffAbKiGk/edit),
+with columns `Row_ID`, `Company`, `Website`, `Owner_First_Name`,
+`Owner_Last_Name`, `Owner_Email`, `Business_Email`, and `IP_Status`.
+Read-back verification confirmed 110 data rows, 73 owner names, 38 direct owner
+emails, 25 business/general emails, and 64 rows with at least one email.
+Only after that verification, all values in the larger
+**"IP Website Verification -- 2026-10-29"** workbook were cleared from
+`Sheet1`, `Verification`, `Evidence`, `Methodology`, `Source_Input`, and
+`Review_Queue`, and the temporary `US_IP_Shortlist` tab was deleted;
+read-back confirmed those ranges are empty. The local repo files remain the
+detailed source of truth.
