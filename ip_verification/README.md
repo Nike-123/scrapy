@@ -118,3 +118,75 @@ Only publicly published professional information was recorded. Respect each
 site's terms/robots rules and applicable email/outreach law (e.g., CAN-SPAM)
 before contacting anyone in the shortlist; inclusion here is a research
 finding, not consent to marketing.
+
+## Batch 2 (Rows 51–110, verified 2026-10-30)
+
+A second list of 60 `Company Name + Website` pairs was supplied and verified with the
+identical rules. Inputs/findings/outputs:
+
+```
+batch2/input_batch2.csv
+batch2/results_batch2.json                      <- per-row findings (source of truth)
+batch2/output/verified_ip_firms_batch2.xlsx     (Verified_Firms, US_IP_Shortlist, Summary)
+batch2/output/verified_ip_firms_batch2.csv
+input_all.csv / results_all.json                <- combined Rows 1-110 build inputs
+output/verified_ip_firms_all.xlsx / .csv        <- combined master (Rows 1-110)
+```
+
+Company names in the paste arrived without spaces (e.g. `Dvorak&Donovan`); they were
+space-normalized in `input_batch2.csv` while the URLs are preserved verbatim.
+`build_output.py` now takes `--input/--results/--out-dir/--prefix` (defaults =
+Batch 1).
+
+### Batch 2 summary (60 rows)
+
+| Classification | Count |
+|---|---|
+| IP | 31 |
+| NIP (verified, no IP service) | 13 |
+| Needs Review | 16 |
+| US-Based | 29 |
+| Non-US | 1 (elizabethchurchill.com — Abu Dhabi academic, not a lawyer) |
+| U.S. Needs Review | 30 |
+| **US-Based + IP shortlist** | **22** (15 fully Verified) |
+| Owner emails verified on official site | 5 |
+| General emails | 11 |
+
+Combined Rows 1–110: IP 59 / NIP 20 / Needs Review 31; US-Based 59; US + IP
+shortlist 48; verified owner emails 11.
+
+### Batch 2 verified owner emails (official site only)
+
+| Row | Person | Email | Firm |
+|---|---|---|---|
+| 79 | Eva Guo | evaguo8@gmail.com (Gmail, NIP firm) | evaguo.com (personal injury) |
+| 86 | Michael Fabiano | mfabiano@FabianoLawFirm.com | fabianolawfirm.com |
+| 87 | Christopher Falkowski | Chris@FalkowskiPLLC.com | falkowskipllc.com |
+| 101 | Paul Fattibene | paul@fattibene.com | fattibene.com |
+| 109 | Jeffrey Finn | jeff@finniplaw.com | finniplaw.com |
+
+### Batch 2 notable findings / input-list errors
+
+- **Repurposed/hijacked domains (do not use):** `uebleriplaw.com` → Indonesian
+  gambling site; `faylaw.com` → door-mat e-commerce spam; `file-ee-patents.com` →
+  a Calgary Pilates studio. `extrudedelement.com` is an unconfigured-host page.
+- **Wrong URL for the named company:** `ferguson.com` (plumbing supplies, 404) vs
+  *Fergason* Patent Properties; `fipp.com` (global media association);
+  `lawcrossing.com` (jobs board) vs Ecoff Landsberg; `rosenlaw.com` (Lawrence
+  Rosen, retired) vs Michael B. Einschlag; `echelaw.com` ("Eche Law" blog) vs
+  Echelon Law Group; `elizabethchurchill.com` (HCI professor, UAE);
+  `docdreyfus.com` appears tied to a PhD psychologist listing, not "Edward
+  Dreyfus, Esq." (two different people — do not merge).
+- **Input name vs. actual practice:** "Elizabeth Kim Patent Law Offices"
+  (kimassociates.com) — official practice list has no patent/IP work (NIP);
+  Ferrance Law is now NM civil appeals ("not taking new cases") despite the
+  founder's USPTO background; "Dvorak & Donovan" is now Dvorak Law Group.
+- **Merged/redirected:** Fathom Law → merged into Scale LLP; Esposito →
+  elglawfirm.com (NIP); Evans Fears → efsmmlaw.com (NIP).
+- **Not law firms:** DW Gildart (engineering), Epicenter IP (patent brokerage),
+  Fine Point Patent (drawings), FastPatentPartner (legal-tech product), FirmForward
+  (law-firm marketing). Epsilon Patents / Express Search are patent-search firms
+  (counted IP per the task's search-services list, flagged as non-firms).
+- **Inaccessible (Needs Review, never auto-NIP):** dykaslaw.com, docdreyfus.com,
+  wengreenpatentlaw.com (500; attorney may now be at Knobbe Martens), faricylaw.com
+  (500), focusonpatents.com. Directory leads are in those rows' Review_Notes.

@@ -21,6 +21,7 @@ Usage:
 
 from __future__ import annotations
 
+import argparse
 import csv
 import json
 import sys
@@ -62,7 +63,9 @@ ALL_COLUMNS = (
 IP_ENUM = {"IP", "NIP", "Needs Review"}
 US_ENUM = {"US-Based", "Non-US", "Needs Review"}
 VERIFICATION_ENUM = {"Verified", "Needs Review"}
-GENERIC_LOCALPARTS = {"info", "contact", "mailbox", "office", "admin", "hello"}
+GENERIC_LOCALPARTS = {
+    "info", "contact", "mailbox", "office", "admin", "hello", "frontdesk", "mail",
+}
 
 
 def load_inputs() -> tuple[list[dict[str, str]], dict]:
@@ -88,7 +91,8 @@ def merge_rows(inputs: list[dict[str, str]], results: dict) -> list[dict[str, st
             if col in ORIGINAL_COLUMNS:
                 row[col] = original.get(col, "")
             elif col == "Checked_Date":
-                row[col] = checked
+                # Per-row date wins (used by the combined 1-110 build).
+                row[col] = str(finding.get(col, "") or checked)
             else:
                 row[col] = str(finding.get(col, "") or "")
         merged.append(row)
@@ -245,7 +249,31 @@ def summarise(rows: list[dict[str, str]]) -> dict[str, int]:
     return result
 
 
+def parse_args() -> None:
+    global INPUT_CSV, RESULTS_JSON, OUT_DIR, OUT_CSV, OUT_XLSX
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--input", type=Path, help="input CSV (default: input_domains.csv)")
+    parser.add_argument("--results", type=Path, help="results JSON (default: results.json)")
+    parser.add_argument("--out-dir", type=Path, help="output directory (default: output/)")
+    parser.add_argument(
+        "--prefix", help="output file prefix (default: verified_ip_firms)"
+    )
+    args = parser.parse_args()
+    if args.input:
+        INPUT_CSV = args.input if args.input.is_absolute() else HERE / args.input
+    if args.results:
+        RESULTS_JSON = args.results if args.results.is_absolute() else HERE / args.results
+    out_dir = OUT_DIR
+    if args.out_dir:
+        out_dir = args.out_dir if args.out_dir.is_absolute() else HERE / args.out_dir
+    prefix = args.prefix or "verified_ip_firms"
+    OUT_DIR = out_dir
+    OUT_CSV = out_dir / f"{prefix}.csv"
+    OUT_XLSX = out_dir / f"{prefix}.xlsx"
+
+
 def main() -> int:
+    parse_args()
     inputs, results = load_inputs()
     rows = merge_rows(inputs, results)
     validate(rows)
