@@ -190,3 +190,21 @@ shortlist 48; verified owner emails 11.
 - **Inaccessible (Needs Review, never auto-NIP):** dykaslaw.com, docdreyfus.com,
   wengreenpatentlaw.com (500; attorney may now be at Knobbe Martens), faricylaw.com
   (500), focusonpatents.com. Directory leads are in those rows' Review_Notes.
+
+## Google Sheets sync (2026-10-30)
+
+Batch 2 (Rows 51–110) was appended to the Google Sheet
+**"IP Website Verification — 2026-10-29"**
+(https://docs.google.com/spreadsheets/d/1EScx66vH8Ft-WEF6hgYU0KEj_t4Ei2rqddiPOs7_5IU/edit):
+
+- `Verification` tab: +60 rows mapped into its existing 24-column layout
+  (Rows 1–50 untouched — verified by read-back; the local `Domain` column has no
+  counterpart there and was not written). Sheet-only fields
+  (`Entity_Type`, `Owner_Evidence_URL`, `Email_Evidence_Status`,
+  `General_Email_Source_URL`) were filled from Batch 2 evidence following that
+  workbook's `Methodology` conventions. Final count: 110 data rows (Row_IDs 1–110).
+- `Source_Input`: +60 rows. `Review_Queue`: +37 (Batch 2 Needs Review rows).
+- `US_IP_Shortlist`: tab did not exist — created with the 22 Batch 2 US+IP firms
+  (same 24 headers). `Sheet1` summary metrics were left unchanged (still 50-row
+  counts describing the pre-existing Batch 1 dataset in that workbook).
+- Mapping/payload generation is reproducible via `gs_payload_builder.py`.
