@@ -316,6 +316,8 @@ def main():
          f"+ {sum(1 for o in other if o[4] == 'Non-US (foreign)')} non-US + "
          f"{sum(1 for o in other if o[4] == 'Unclear / not an IP firm')} unclear. Nothing dropped, nothing duplicated."),
         ("Date of research", datetime.date.today().isoformat()),
+        ("Google Sheet (same six tabs, live)",
+         "https://docs.google.com/spreadsheets/d/1GdoyB8__oIs76oh7yYXFoJT9END07cRB7lYppk1Yc5E/edit"),
         ("Method", "Every one of the 9 directory pages was read directly. Each listing's website was taken (a) from the "
                    "Legal Reach profile text where the site publishes one, (b) from a cross-check against the firm's "
                    "LegalServicesLink profile already extracted in this project, or (c) from a name + city web search whose "
